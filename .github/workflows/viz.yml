@@ -1,0 +1,31 @@
+- name: Private Actions Checkout
+  # You may pin to the exact commit or the version.
+  # uses: daspn/private-actions-checkout@f3ae3e2aea35c7cfd5ceec53cf6bfc1161a695ea
+  uses: daspn/private-actions-checkout@v2.2.0
+  with:
+    # List of private actions to checkout. Must be a JSON array and each entry must mutch the format owner/repo@ref
+    actions_list: # optional, default is []
+    # Where to checkout the custom actions
+    checkout_base_path: # default is ./.github/actions
+    # If provided, configures the ssh-agent with the given private key.
+    ssh_private_key: # optional
+    # The app id to authenticate with a GitHub app
+    app_id: # optional
+    # The app private key to authenticate with a GitHub app
+    app_private_key: # optional
+    # Sets app-token as an output if set to "true"
+    return_app_token: # optional
+    # Configures git to continue to use the ssh key or app token after the action exits if set to "true"
+    configure_git: # optional
+    
+- name: Repo Visualizer
+  # You may pin to the exact commit or the version.
+  # uses: githubocto/repo-visualizer@d89437ae41087c95815abff164cc3d64b37f323a
+  uses: githubocto/repo-visualizer@0.3.0
+  with:
+    # A path (relative to the root of your repo) to where you would like the diagram to live. For example: images/diagram.svg. Default: diagram.svg
+    output_file: # optional
+    # A list of paths to exclude from the diagram, separated by commas. For example: dist,node_modules
+    excluded_paths: # optional
+    # The maximum number of nested folders to show files within. Default: 9
+    max_depth: # optional
