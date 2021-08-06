@@ -1,0 +1,10 @@
+Column "Year_nc" can contain any value that is not a delimiter
+Column "Country_nc" can contain any value that is not a delimiter
+Column "Client_nc" can contain any value that is not a delimiter
+Column "Brand_nc" can only contain one of the following values: CHEEZIT, CHOCOKRISPIS, CORPORATEPROMOTIONS, EXTRA, FROOTLOOPS, HEALTHYKIDS, KOMPLETE, MASTERBRAND, MEZCLADITO, POPTARTS, PRINGLES, RICEKRISPIES, RICEKRISPIS, SPECIAL K, SPECIALK, SPECIALKBARS, SUCRILHOS, ZUCARITAS
+Column "Temporality_nc" can contain any value that is not a delimiter
+Column "Network_nc" can contain any value that is not a delimiter
+Column "Vendor_nc" can only contain one of the following values: GOOGLE, SEM, YOUTUBE
+Column "Orientation_nc" can only contain one of the following values: AFFINITYAUDIENCE, AFFINITYAUDIENCES, AFFINITYTOPICS, DISPLAY, PLACEMENTSVIDEOS, SEVERAL
+Column "BuyType_nc" can only contain one of the following values: CPC, CPCV, CPE, CPM, CPV
+Column "ConsumptionOccasion_nc" can only contain one of the following values: AFTERNOONSNACK, BREAKFASTFORONE, DINNER, EVENINGLEISURETIME, EVENINGME, EVENINGWE, FAMILYBREAKFAST, MID-MORNINGSNACK, MORNINGBREAKFAST, SALTYSNACKS

@@ -1,0 +1,12 @@
+Column "Agency_nc" can only contain one of the following values: KTBO, MCMMIA, MCMMX
+Column "Year_nc" can contain any value that is not a delimiter
+Column "Country_nc" can contain any value that is not a delimiter
+Column "Client_nc" can contain any value that is not a delimiter
+Column "Brand_nc" can only contain one of the following values: , CHEEZIT, CHOCOKRISPIS, CORPORATEAFFAIRS, CORPORATEPROMOTIONS, EXTRA, FROOTLOOPS, HEALTHYKIDS, KOMPLETE, MASTERBRAND, MEZCLADITO , PARATI, POPTARTS, PRINGLES, RICEKRISPIES, SPECIALK, SPECIALKBARS, SPECIALKBRAS, SUCRILHOS, TRINK , ZUCARITAS
+Column "Temporality_nc" can only contain upper case characters of length 8
+Column "Initiative_nc" can only contain one of the following values: YOSOY, REDCITY, FREESTAMP, INFLUENCESYSTEM, ARMATEELCINE, CLOSETOYOU ALIMENTAMOSLOQUEERES, ALOGRANDE, ALWAYSON, ALWAYSONJUNIO-PRIDE, BACKTOSCHOOL, CELEBREAKING, CHEEZIT, CHOCODILEMA, DESPIERTAMUCHOMAS, EXPERIENCIACHOCOKRISPIS, EXTRA, FROOTLOOPS, HEALTHYKIDSGRANOLA, HERSHEYS, HOMEOFFICE, KOMPLETE, LANÇAMENTO2021, LOGRANDOMEJORESDIAS-PRESIDENCIA, MEDIUMBOX, MEGASTACK, MEGHAN, PROMOMOMENTOSDESABOR, PROMOXBOX, PURAGARRA, SPECIALKBARS, VERANOX2, WELCOMERUFFLES, ZUCARITASAREQUIPE
+Column "Vendor_nc" can only contain upper case characters of length 8
+Column "Platform_nc" can only contain one of the following values: FACEBOOK, FACEBOOKANDINSTAGRAM, INSTAGRAM
+Column "Objective_nc" can only contain one of the following values: AWARENESS, BRANDAWARENESS, REACH, VIDEOVIEWS, WEBSITECLICKS, ENGAGEMENT
+Column "BuyType_nc" can only contain one of the following values: CPC, CPCV, CPE, CPM, CPV
+Column "ConsumptionOccasion_nc" can only contain one of the following values: BREAKFASTFORONE, EVENINGLEISURETIME, EVENINGME, EVENINGWE, FAMILYBREAKFAST, MID-MORNINGSNACK, MORNINGBREAKFAST

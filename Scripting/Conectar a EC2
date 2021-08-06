@@ -1,0 +1,3 @@
+### Necesitas tener las ktbo-firstkeys.pem para poder conectarte
+
+ssh -i "ktbo-firstkeys.pem" ec2-user@ec2-3-16-112-30.us-east-2.compute.amazonaws.com
