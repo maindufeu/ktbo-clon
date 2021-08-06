@@ -1,0 +1,31 @@
+,Valid Columns
+0,Start Date
+1,End Date
+2,Month
+3,Brand
+4,Region
+5,Country
+6,Campaign
+7,Platform
+8,Touchpoint
+9,Format
+10,Goal
+11,Investment
+12,Reach
+13,Impressions
+14,CPM
+15,Clicks
+16,CPC
+17,CTR
+18,Views
+19,CPV
+20,VTR
+21,CR
+22,Complete Views
+23,CPCV
+24,Engagement
+25,Sales Price
+26,Sales Quantity
+27,Insertions
+28,File
+29,Buy Type
