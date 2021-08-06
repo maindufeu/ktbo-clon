@@ -1,0 +1,161 @@
+Completed 4.4 KiB/4.4 KiB (2.2 KiB/s) with 1 file(s) remainingupload: .\unmatched.csv to s3://testingmidktbo/unmatched.csv  
+Completed 4.4 KiB/4.4 KiB (3.6 KiB/s) with 1 file(s) remainingupload: .\unmatched.csv to s3://testingmidktbo/unmatched.csv  
+Completed 4.4 KiB/4.4 KiB (2.7 KiB/s) with 1 file(s) remainingupload: .\unmatched.csv to s3://testingmidktbo/unmatched.csv  
+Completed 4.4 KiB/4.4 KiB (25.5 KiB/s) with 1 file(s) remainingupload: ./unmatched.csv to s3://testingmidktbo/unmatched.csv   
+Completed 14.3 KiB/14.3 KiB (76.8 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 181.9 KiB/181.9 KiB (894.5 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 14.3 KiB/14.3 KiB (50.7 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 181.9 KiB/181.9 KiB (798.5 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 181.9 KiB/181.9 KiB (851.2 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 14.3 KiB/14.3 KiB (84.5 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 181.9 KiB/181.9 KiB (939.1 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 14.3 KiB/14.3 KiB (99.8 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 19.0 KiB/19.0 KiB (95.9 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 93.9 KiB/93.9 KiB (620.9 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 93.9 KiB/93.9 KiB (389.5 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 19.0 KiB/19.0 KiB (128.8 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 19.0 KiB/19.0 KiB (95.2 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 93.9 KiB/93.9 KiB (552.0 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 93.9 KiB/93.9 KiB (530.3 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 19.0 KiB/19.0 KiB (121.2 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 93.9 KiB/93.9 KiB (575.0 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 19.0 KiB/19.0 KiB (139.0 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 64.3 KiB/64.3 KiB (329.2 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 4.6 KiB/4.6 KiB (37.2 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 64.3 KiB/64.3 KiB (247.4 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 115.2 KiB/115.2 KiB (690.7 KiB/s) with 1 file(s) remainingupload: ./mpcampaigns.csv to s3://testingmidktbo/mpcampaigns.csv    
+Completed 4.6 KiB/4.6 KiB (36.5 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 69.8 KiB/69.8 KiB (346.4 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 122.4 KiB/122.4 KiB (728.8 KiB/s) with 1 file(s) remainingupload: ./mpcampaigns.csv to s3://testingmidktbo/mpcampaigns.csv    
+Completed 3.9 KiB/3.9 KiB (29.0 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 64.3 KiB/64.3 KiB (301.4 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 115.2 KiB/115.2 KiB (524.0 KiB/s) with 1 file(s) remainingupload: ./mpcampaigns.csv to s3://testingmidktbo/mpcampaigns.csv    
+Completed 4.6 KiB/4.6 KiB (26.3 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 64.3 KiB/64.3 KiB (305.0 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 118.8 KiB/118.8 KiB (724.7 KiB/s) with 1 file(s) remainingupload: ./mpcampaigns.csv to s3://testingmidktbo/mpcampaigns.csv    
+Completed 4.6 KiB/4.6 KiB (36.3 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 64.3 KiB/64.3 KiB (259.9 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 118.8 KiB/118.8 KiB (762.1 KiB/s) with 1 file(s) remainingupload: ./mpcampaigns.csv to s3://testingmidktbo/mpcampaigns.csv    
+Completed 4.6 KiB/4.6 KiB (37.0 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 36.8 KiB/36.8 KiB (170.3 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 109.1 KiB/109.1 KiB (596.8 KiB/s) with 1 file(s) remainingupload: ./mpcampaigns.csv to s3://testingmidktbo/mpcampaigns.csv    
+Completed 22.4 KiB/22.4 KiB (132.3 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 42 Bytes/42 Bytes (273 Bytes/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 96.0 KiB/96.0 KiB (568.8 KiB/s) with 1 file(s) remainingupload: ./mpcampaigns.csv to s3://testingmidktbo/mpcampaigns.csv  
+Completed 46.0 KiB/46.0 KiB (265.9 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 42 Bytes/42 Bytes (292 Bytes/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 96.0 KiB/96.0 KiB (313.9 KiB/s) with 1 file(s) remainingupload: ./mpcampaigns.csv to s3://testingmidktbo/mpcampaigns.csv  
+Completed 46.0 KiB/46.0 KiB (323.2 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 42 Bytes/42 Bytes (328 Bytes/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 96.0 KiB/96.0 KiB (618.5 KiB/s) with 1 file(s) remainingupload: ./mpcampaigns.csv to s3://testingmidktbo/mpcampaigns.csv  
+Completed 46.0 KiB/46.0 KiB (204.4 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 42 Bytes/42 Bytes (320 Bytes/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 96.5 KiB/96.5 KiB (576.6 KiB/s) with 1 file(s) remainingupload: ./mpcampaigns.csv to s3://testingmidktbo/mpcampaigns.csv  
+Completed 46.6 KiB/46.6 KiB (296.3 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 42 Bytes/42 Bytes (334 Bytes/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 96.0 KiB/96.0 KiB (591.4 KiB/s) with 1 file(s) remainingupload: ./mpcampaigns.csv to s3://testingmidktbo/mpcampaigns.csv  
+Completed 46.0 KiB/46.0 KiB (256.1 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 69.2 KiB/69.2 KiB (338.3 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 122.4 KiB/122.4 KiB (652.4 KiB/s) with 1 file(s) remainingupload: ./mpcampaigns.csv to s3://testingmidktbo/mpcampaigns.csv    
+Completed 4.4 KiB/4.4 KiB (35.6 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 69.2 KiB/69.2 KiB (318.9 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 122.4 KiB/122.4 KiB (740.9 KiB/s) with 1 file(s) remainingupload: ./mpcampaigns.csv to s3://testingmidktbo/mpcampaigns.csv    
+Completed 4.4 KiB/4.4 KiB (34.6 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 83.5 KiB/83.5 KiB (478.8 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 122.4 KiB/122.4 KiB (741.9 KiB/s) with 1 file(s) remainingupload: ./mpcampaigns.csv to s3://testingmidktbo/mpcampaigns.csv    
+Completed 3.9 KiB/3.9 KiB (30.1 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 83.5 KiB/83.5 KiB (504.1 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 122.4 KiB/122.4 KiB (669.8 KiB/s) with 1 file(s) remainingupload: ./mpcampaigns.csv to s3://testingmidktbo/mpcampaigns.csv    
+Completed 3.9 KiB/3.9 KiB (30.4 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 88.7 KiB/88.7 KiB (493.7 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 122.4 KiB/122.4 KiB (748.9 KiB/s) with 1 file(s) remainingupload: ./mpcampaigns.csv to s3://testingmidktbo/mpcampaigns.csv    
+Completed 3.9 KiB/3.9 KiB (30.5 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 88.7 KiB/88.7 KiB (570.3 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 122.4 KiB/122.4 KiB (661.8 KiB/s) with 1 file(s) remainingupload: ./mpcampaigns.csv to s3://testingmidktbo/mpcampaigns.csv    
+Completed 3.9 KiB/3.9 KiB (29.2 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 88.7 KiB/88.7 KiB (501.4 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 122.4 KiB/122.4 KiB (323.9 KiB/s) with 1 file(s) remainingupload: ./mpcampaigns.csv to s3://testingmidktbo/mpcampaigns.csv    
+Completed 4.2 KiB/4.2 KiB (21.8 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 186.8 KiB/186.8 KiB (812.8 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 122.4 KiB/122.4 KiB (756.0 KiB/s) with 1 file(s) remainingupload: ./mpcampaigns.csv to s3://testingmidktbo/mpcampaigns.csv    
+Completed 2.2 KiB/2.2 KiB (17.0 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 256.0 KiB/383.9 KiB (1.5 MiB/s) with 1 file(s) remainingCompleted 383.9 KiB/383.9 KiB (1.5 MiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 14.3 KiB/14.3 KiB (90.8 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 256.0 KiB/383.9 KiB (1.3 MiB/s) with 1 file(s) remainingCompleted 383.9 KiB/383.9 KiB (1.5 MiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 14.3 KiB/14.3 KiB (89.1 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 186.9 KiB/186.9 KiB (797.8 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 5.8 KiB/5.8 KiB (16.7 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 162.9 KiB/162.9 KiB (788.2 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 20.5 KiB/20.5 KiB (147.1 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 162.9 KiB/162.9 KiB (435.5 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 20.5 KiB/20.5 KiB (119.7 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 162.9 KiB/162.9 KiB (784.6 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 20.5 KiB/20.5 KiB (143.5 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 177.9 KiB/177.9 KiB (730.5 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 21.0 KiB/21.0 KiB (136.3 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 177.9 KiB/177.9 KiB (746.0 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 21.0 KiB/21.0 KiB (131.9 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 177.9 KiB/177.9 KiB (705.6 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 21.0 KiB/21.0 KiB (150.2 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 177.9 KiB/177.9 KiB (771.9 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 21.0 KiB/21.0 KiB (119.2 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 177.9 KiB/177.9 KiB (511.1 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 21.0 KiB/21.0 KiB (114.7 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 176.8 KiB/176.8 KiB (730.7 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 20.1 KiB/20.1 KiB (122.6 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 176.8 KiB/176.8 KiB (897.0 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 20.1 KiB/20.1 KiB (139.1 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 176.8 KiB/176.8 KiB (784.3 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 20.1 KiB/20.1 KiB (142.0 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 176.8 KiB/176.8 KiB (717.0 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 20.1 KiB/20.1 KiB (122.9 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 176.8 KiB/176.8 KiB (1.0 MiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 20.1 KiB/20.1 KiB (101.1 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 176.8 KiB/176.8 KiB (888.7 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 20.1 KiB/20.1 KiB (135.7 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 176.8 KiB/176.8 KiB (687.5 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 20.1 KiB/20.1 KiB (122.1 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 176.8 KiB/176.8 KiB (865.3 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 20.1 KiB/20.1 KiB (111.7 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 132.4 KiB/132.4 KiB (713.4 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 64.6 KiB/64.6 KiB (432.8 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 132.4 KiB/132.4 KiB (682.4 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 64.6 KiB/64.6 KiB (398.6 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 176.8 KiB/176.8 KiB (722.9 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 20.1 KiB/20.1 KiB (124.5 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 176.8 KiB/176.8 KiB (749.3 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 20.1 KiB/20.1 KiB (126.6 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 176.8 KiB/176.8 KiB (807.3 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 20.1 KiB/20.1 KiB (122.8 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 195.1 KiB/195.1 KiB (864.4 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 1.8 KiB/1.8 KiB (12.0 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 5.2 KiB/5.2 KiB (34.9 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 9.0 KiB/9.0 KiB (60.9 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 10.3 KiB/10.3 KiB (78.2 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 26.7 KiB/26.7 KiB (158.9 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 195.4 KiB/195.4 KiB (982.1 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 1.5 KiB/1.5 KiB (10.4 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 195.4 KiB/195.4 KiB (820.0 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 1.5 KiB/1.5 KiB (11.8 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 195.4 KiB/195.4 KiB (890.6 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 1.5 KiB/1.5 KiB (11.4 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 195.4 KiB/195.4 KiB (763.4 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 1.5 KiB/1.5 KiB (8.8 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 195.4 KiB/195.4 KiB (917.9 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 1.5 KiB/1.5 KiB (11.1 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 195.4 KiB/195.4 KiB (766.6 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 1.5 KiB/1.5 KiB (11.4 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 195.4 KiB/195.4 KiB (960.3 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 1.5 KiB/1.5 KiB (11.7 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 195.4 KiB/195.4 KiB (807.7 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 1.5 KiB/1.5 KiB (11.8 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 195.4 KiB/195.4 KiB (1.1 MiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 1.5 KiB/1.5 KiB (12.0 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 195.4 KiB/195.4 KiB (820.0 KiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv 
+Completed 1.5 KiB/1.5 KiB (12.1 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 256.0 KiB/366.9 KiB (1.4 MiB/s) with 1 file(s) remainingCompleted 366.9 KiB/366.9 KiB (1.5 MiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 5.8 KiB/5.8 KiB (45.1 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 256.0 KiB/418.0 KiB (1.6 MiB/s) with 1 file(s) remainingCompleted 418.0 KiB/418.0 KiB (2.0 MiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 8.5 KiB/8.5 KiB (67.7 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv
+Completed 256.0 KiB/957.8 KiB (1.3 MiB/s) with 1 file(s) remainingCompleted 512.0 KiB/957.8 KiB (2.4 MiB/s) with 1 file(s) remainingCompleted 768.0 KiB/957.8 KiB (3.6 MiB/s) with 1 file(s) remainingCompleted 957.8 KiB/957.8 KiB (3.5 MiB/s) with 1 file(s) remainingupload: ./matching_campaigns.csv to s3://testingmidktbo/matched.csv
+Completed 43.8 KiB/43.8 KiB (289.0 KiB/s) with 1 file(s) remainingupload: ./unmatching_campaigns.csv to s3://testingmidktbo/unmatched.csv

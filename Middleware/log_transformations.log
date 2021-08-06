@@ -1,0 +1,71 @@
+[main 6534ca2] trans
+ Committer: EC2 Default User <ec2-user@ip-172-31-35-120.us-east-2.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+ create mode 100644 Middleware/log_transformations.log
+[main 5bdbf5e] trans
+ Committer: EC2 Default User <ec2-user@ip-172-31-35-120.us-east-2.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 15 insertions(+)
+[main 8b7d8f8] trans
+ Committer: EC2 Default User <ec2-user@ip-172-31-35-120.us-east-2.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 15 insertions(+), 1 deletion(-)
+sftp>   cd uploads/test
+sftp>   ls -hlt */*
+-rw-r--r--    0 1187     1001         157K Jun 14 00:02 fb_geo/469147_page_insights_page_insights-55-3-ktboclient-20210612.csv
+-rw-r--r--    0 1187     1001         157K Jun 12 00:02 fb_geo/466840_page_insights_page_insights-55-3-ktboclient-20210610.csv
+-rw-r--r--    0 1187     1001         157K Jun 13 00:02 fb_geo/468355_page_insights_page_insights-55-3-ktboclient-20210611.csv
+-rw-r--r--    0 1187     1001         6.1M Jun 14 20:41 sizmekmx/469937_sizmek_sas_sizmek_sas-98-20210101-fb9bcd32d9c24937a885ac55875be69f.csv
+-rw-r--r--    0 1187     1001        60.3K Jun 11 18:05 twitter/466824_mailgun_mailgun-16-20210611-d4f041fc44fa41199f009dd91b14c0b7.csv
+-rw-r--r--    0 1187     1001        36.8M Jun 14 05:24 facebook/469665_ads_insights_ads_insights-6-20210614-5ddd18a283584c55962062a0865a6908.csv
+-rw-r--r--    0 1187     1001        36.7M Jun 13 05:28 facebook/468778_ads_insights_ads_insights-6-20210613-e9aa3d1a39b4438faf6d4a910c260f1c.csv
+-rw-r--r--    0 1187     1001        97.3M Jun 12 10:34 facebook/467836_ads_insights_ads_insights-6-20210612-92fe7c29e3484e798d83f1a15adb88c3.csv
+-rw-r--r--    0 1187     1001        36.8M Jun 12 05:23 facebook/467354_ads_insights_ads_insights-6-20210612-ebc5072f46ab4f9288e135aed2d58f35.csv
+-rw-r--r--    0 1187     1001        68.2M Jun 11 21:15 facebook/466828_ads_insights_ads_insights-6-20200101-eda341ed179c487dbb7382ce793fe7bf.csv
+-rw-r--r--    0 1187     1001        51.3M Jun 11 21:14 facebook/466827_ads_insights_ads_insights-6-20210101-d4405558df2f4520bfd28c15e69fcce0.csv
+-rw-r--r--    0 1187     1001         5.1M Jun 14 20:39 sizmekco/469936_sizmek_sas_sizmek_sas-89-20210101-6432e7c4b4b742708a63530c1ab99e6e.csv
+-rw-r--r--    0 1187     1001         2.5M Jun 11 15:27 othercampaigns/466662_mailgun_mailgun-28-tmpi0j8qy13pautas_locales_acumulado_other-4.csv
+-rw-r--r--    0 1187     1001        23.6M Jun 13 00:05 google/468347_adwords_adwords-63-20210613-678fef8ae5cc4a01b04b5f548b51d975.csv
+-rw-r--r--    0 1187     1001        37.5M Jun 12 08:12 google/467360_adwords_adwords-63-20210612-296e8f9309b14c8bb2e24f2b839a92f9.csv
+-rw-r--r--    0 1187     1001        24.1M Jun 14 00:05 google/469140_adwords_adwords-63-20210614-7c6221eb93cc4e00a6a08e22d589cb3f.csv
+-rw-r--r--    0 1187     1001        47.0M Jun 11 15:48 google/466696_adwords_adwords-63-20200101-f4bb2b4931364671a0984c534ae90462.csv
+-rw-r--r--    0 1187     1001        23.2M Jun 12 00:05 google/466832_adwords_adwords-63-20210612-c88596e0c9aa4b4b8fa8e11ed5a3f136.csv
+-rw-r--r--    0 1187     1001         1.0K Jun 12 04:01 instagram_followers/467250_instagram_discovery_instagram_discovery-7-20210612-6bb365be3f074767b6e1829ee3d262df.csv
+-rw-r--r--    0 1187     1001         1.0K Jun 14 04:01 instagram_followers/469560_instagram_discovery_instagram_discovery-7-20210614-a9b7038c4f614c95809fc7772a09d959.csv
+-rw-r--r--    0 1187     1001         1.0K Jun 13 04:01 instagram_followers/468674_instagram_discovery_instagram_discovery-7-20210613-df28aa4311b5462780dc22e388fa6f56.csv
+-rw-r--r--    0 1187     1001         104K Jun 14 00:02 fb_demographics/469148_page_insights_page_insights-48-3-ktboclient-20210612.csv
+-rw-r--r--    0 1187     1001         104K Jun 13 00:02 fb_demographics/468354_page_insights_page_insights-48-3-ktboclient-20210611.csv
+-rw-r--r--    0 1187     1001         104K Jun 12 00:03 fb_demographics/466870_page_insights_page_insights-48-3-ktboclient-20210610.csv
+-rw-r--r--    0 1187     1001        19.7M Jun 14 20:45 sizmekpr/469939_sizmek_sas_sizmek_sas-99-20210101-0eff7b48486a48d8b677c274752e22d8.csv
+sftp>   bye

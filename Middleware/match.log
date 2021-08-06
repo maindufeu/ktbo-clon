@@ -1,0 +1,1390 @@
+sftp>   cd uploads/test
+sftp> 
+sftp>   lcd Campaigns/facebook
+sftp>   get facebook/*
+Fetching /uploads/test/facebook/439834_ads_insights_ads_insights-6-20210101-87bfb4893fdc498f80d62d2b319d8c49.csv to 439834_ads_insights_ads_insights-6-20210101-87bfb4893fdc498f80d62d2b319d8c49.csv
+sftp>   lcd ..
+sftp>   lcd ..
+sftp> 
+sftp>   lcd Campaigns/sizmekpr
+sftp>   get sizmekpr/*
+Fetching /uploads/test/sizmekpr/439833_sizmek_sas_sizmek_sas-99-20210101-a5e7c97fe65145e2b26203e02b7d2154.csv to 439833_sizmek_sas_sizmek_sas-99-20210101-a5e7c97fe65145e2b26203e02b7d2154.csv
+sftp>   lcd ..
+sftp>   lcd ..
+sftp> 
+sftp>   lcd Campaigns/sizmekmx
+sftp>   get sizmekmx/*
+Fetching /uploads/test/sizmekmx/439830_sizmek_sas_sizmek_sas-98-20210101-5493622062544417b10965c415a6ed19.csv to 439830_sizmek_sas_sizmek_sas-98-20210101-5493622062544417b10965c415a6ed19.csv
+sftp>   lcd ..
+sftp>   lcd ..
+sftp> 
+sftp>   lcd Campaigns/sizmekmi
+sftp>   get sizmekmi/*
+Fetching /uploads/test/sizmekmi/439831_sizmek_sas_sizmek_sas-97-20210511-9556b76ff4c84bf081849f4275f6bcbc.csv to 439831_sizmek_sas_sizmek_sas-97-20210511-9556b76ff4c84bf081849f4275f6bcbc.csv
+Fetching /uploads/test/sizmekmi/439832_sizmek_sas_sizmek_sas-97-20210101-7f931208a3254084b3f45c684bacc949.csv to 439832_sizmek_sas_sizmek_sas-97-20210101-7f931208a3254084b3f45c684bacc949.csv
+sftp>   lcd ..
+sftp>   lcd ..
+sftp> 
+sftp>   lcd Campaigns/sizmekco
+sftp>   get sizmekco/*
+Fetching /uploads/test/sizmekco/439829_sizmek_sas_sizmek_sas-89-20210101-191ad56c6fff47f1876a48e365f6d589.csv to 439829_sizmek_sas_sizmek_sas-89-20210101-191ad56c6fff47f1876a48e365f6d589.csv
+sftp>   lcd ..
+sftp>   lcd ..
+sftp> 
+sftp> 
+sftp>   lcd Campaigns/google
+sftp>   get google/*
+Fetching /uploads/test/google/439828_adwords_adwords-63-20210101-d54f5f9252034829b1f2428ef15aaac9.csv to 439828_adwords_adwords-63-20210101-d54f5f9252034829b1f2428ef15aaac9.csv
+sftp>   lcd ..
+sftp>   lcd ..
+sftp> 
+sftp> 
+sftp>   lcd Campaigns/youtube
+sftp>   get youtube/*
+sftp>   lcd ..
+sftp>   lcd ..
+sftp> 
+sftp> 
+sftp> #  lcd mp
+sftp> #  get mp/*
+sftp> #  lcd ..
+sftp> #  rmdir mp
+sftp> #  mkdir mp
+sftp> 
+sftp> #  lcd twitter
+sftp> #  get twitter/*
+sftp> #  lcd ..
+sftp> #  rmdir twitter
+sftp> #  mkdir twitter
+sftp> 
+sftp> #  lcd othercampaigns
+sftp> #  get othercampaigns/*
+sftp> #  lcd ..
+sftp> #  rmdir othercampaigns
+sftp> #  mkdir othercampaigns
+sftp> 
+sftp> 
+sftp>   bye
+Completed 256.0 KiB/406.6 KiB (2.3 MiB/s) with 1 file(s) remainingCompleted 406.6 KiB/406.6 KiB (3.5 MiB/s) with 1 file(s) remainingdownload: s3://othercampaigns/acumulado_other/pautas_locales_acumulado_other.xlsx to Campaigns/othercampaigns/acumulado_other.xlsx
+Completed 14.2 KiB/14.2 KiB (274.2 KiB/s) with 1 file(s) remainingdownload: s3://othercampaigns/acumulado_twitter/pautas_locales_acumulado_twitter.xlsx to Campaigns/twitter/acumulado_twitter.xlsx
+Twitter length:
+13
+Other Campaigns length:
+338
+Campaigns/facebook/439834_ads_insights_ads_insights-6-20210101-87bfb4893fdc498f80d62d2b319d8c49.csv
+fb
+1
+Campaigns/google/439828_adwords_adwords-63-20210101-d54f5f9252034829b1f2428ef15aaac9.csv
+go
+1
+Campaigns/sizmekco/439829_sizmek_sas_sizmek_sas-89-20210101-191ad56c6fff47f1876a48e365f6d589.csv
+si
+1
+Campaigns/sizmekmi/439831_sizmek_sas_sizmek_sas-97-20210511-9556b76ff4c84bf081849f4275f6bcbc.csv
+si
+2
+Campaigns/sizmekmi/439832_sizmek_sas_sizmek_sas-97-20210101-7f931208a3254084b3f45c684bacc949.csv
+si
+3
+Campaigns/sizmekmx/439830_sizmek_sas_sizmek_sas-98-20210101-5493622062544417b10965c415a6ed19.csv
+si
+4
+Campaigns/sizmekpr/439833_sizmek_sas_sizmek_sas-99-20210101-a5e7c97fe65145e2b26203e02b7d2154.csv
+si
+5
+1
+1
+sizmek uniques
+5
+otheruniques
+338
+13
+1
+1
+sizmek
+5
+13
+other
+338
+unida
+358
+lista de campañas únicas:
+['KTBO_2020_BRA_KELLOGGS_TRINK_SEASONAL_GREENCITY_FACEBOOK_INSTAGRAM_AWARENESS_CPM_LUNCH', 'MCMMIA_2021_SLV_Kelloggs_Corporate Promotions_Seasonal_Google_Youtube_Back to School_Affinity Audiences_CPV_Family Breakfast_ENE_L14', 'MCMCO_2020_COL_KELLOGGS_FROOTLOOPS_SEASONAL_FROOTLOOPSJUMBO_SIZMEK_FAMILYBREAKFAST_CPM-XAXIS-DISPLAY', 'MCMMIA_2021_CHL_Kelloggs_Masterbrand_Seasonal_DespiertaMuchoMas_Sizmek_BreakfastforOne_CPM-Xaxis-ScrollReactive', 'MCMMIA_2020_MEX_Kelloggs_Pringles_Seasonal_AlwaysOn_Sizmek_EveningMe_CPM-Xaxis-Video', 'MCMMX_2020_MEX_KELLOGGS_SPECIALK_SEASONAL_ORIGINAL_SIZMEK_BREAKFASTFORONE_CPC-XAXIS-STANDARDBANNERS', 'MCMPR_2020_CRI_KELLOGGS_CORPORATEPROMOTIONS_SEASONAL_CRAYOLA_SIZMEK_FAMILYBREAKFAST_CPM-XAXIS-DISPLAY', 'M', 'K', 'N', 'B', 'R', 'P', 'T', 'A', 'G', 'E', 'H', 'F', 'O', 'L', 'C', 'X', 'I']
+24
+Completed 26.9 KiB/26.9 KiB (144.2 KiB/s) with 1 file(s) remainingupload: ./unmatched.csv to s3://testingmidktbo/unmatched.csv      
+sftp>   cd uploads/test
+sftp> 
+sftp>   lcd Campaigns/facebook
+sftp>   get facebook/*
+Fetching /uploads/test/facebook/439834_ads_insights_ads_insights-6-20210101-87bfb4893fdc498f80d62d2b319d8c49.csv to 439834_ads_insights_ads_insights-6-20210101-87bfb4893fdc498f80d62d2b319d8c49.csv
+sftp>   lcd ..
+sftp>   lcd ..
+sftp> 
+sftp>   lcd Campaigns/sizmekpr
+sftp>   get sizmekpr/*
+Fetching /uploads/test/sizmekpr/439833_sizmek_sas_sizmek_sas-99-20210101-a5e7c97fe65145e2b26203e02b7d2154.csv to 439833_sizmek_sas_sizmek_sas-99-20210101-a5e7c97fe65145e2b26203e02b7d2154.csv
+sftp>   lcd ..
+sftp>   lcd ..
+sftp> 
+sftp>   lcd Campaigns/sizmekmx
+sftp>   get sizmekmx/*
+Fetching /uploads/test/sizmekmx/439830_sizmek_sas_sizmek_sas-98-20210101-5493622062544417b10965c415a6ed19.csv to 439830_sizmek_sas_sizmek_sas-98-20210101-5493622062544417b10965c415a6ed19.csv
+sftp>   lcd ..
+sftp>   lcd ..
+sftp> 
+sftp>   lcd Campaigns/sizmekmi
+sftp>   get sizmekmi/*
+Fetching /uploads/test/sizmekmi/439831_sizmek_sas_sizmek_sas-97-20210511-9556b76ff4c84bf081849f4275f6bcbc.csv to 439831_sizmek_sas_sizmek_sas-97-20210511-9556b76ff4c84bf081849f4275f6bcbc.csv
+Fetching /uploads/test/sizmekmi/439832_sizmek_sas_sizmek_sas-97-20210101-7f931208a3254084b3f45c684bacc949.csv to 439832_sizmek_sas_sizmek_sas-97-20210101-7f931208a3254084b3f45c684bacc949.csv
+sftp>   lcd ..
+sftp>   lcd ..
+sftp> 
+sftp>   lcd Campaigns/sizmekco
+sftp>   get sizmekco/*
+Fetching /uploads/test/sizmekco/439829_sizmek_sas_sizmek_sas-89-20210101-191ad56c6fff47f1876a48e365f6d589.csv to 439829_sizmek_sas_sizmek_sas-89-20210101-191ad56c6fff47f1876a48e365f6d589.csv
+sftp>   lcd ..
+sftp>   lcd ..
+sftp> 
+sftp> 
+sftp>   lcd Campaigns/google
+sftp>   get google/*
+Fetching /uploads/test/google/439828_adwords_adwords-63-20210101-d54f5f9252034829b1f2428ef15aaac9.csv to 439828_adwords_adwords-63-20210101-d54f5f9252034829b1f2428ef15aaac9.csv
+sftp>   lcd ..
+sftp>   lcd ..
+sftp> 
+sftp> 
+sftp>   lcd Campaigns/youtube
+sftp>   get youtube/*
+sftp>   lcd ..
+sftp>   lcd ..
+sftp> 
+sftp> 
+sftp> #  lcd mp
+sftp> #  get mp/*
+sftp> #  lcd ..
+sftp> #  rmdir mp
+sftp> #  mkdir mp
+sftp> 
+sftp> #  lcd twitter
+sftp> #  get twitter/*
+sftp> #  lcd ..
+sftp> #  rmdir twitter
+sftp> #  mkdir twitter
+sftp> 
+sftp> #  lcd othercampaigns
+sftp> #  get othercampaigns/*
+sftp> #  lcd ..
+sftp> #  rmdir othercampaigns
+sftp> #  mkdir othercampaigns
+sftp> 
+sftp> 
+sftp>   bye
+Completed 256.0 KiB/406.6 KiB (2.4 MiB/s) with 1 file(s) remainingCompleted 406.6 KiB/406.6 KiB (3.8 MiB/s) with 1 file(s) remainingdownload: s3://othercampaigns/acumulado_other/pautas_locales_acumulado_other.xlsx to Campaigns/othercampaigns/acumulado_other.xlsx
+Completed 14.2 KiB/14.2 KiB (291.3 KiB/s) with 1 file(s) remainingdownload: s3://othercampaigns/acumulado_twitter/pautas_locales_acumulado_twitter.xlsx to Campaigns/twitter/acumulado_twitter.xlsx
+Twitter length:
+13
+Other Campaigns length:
+338
+Campaigns/facebook/439834_ads_insights_ads_insights-6-20210101-87bfb4893fdc498f80d62d2b319d8c49.csv
+fb
+1
+Campaigns/google/439828_adwords_adwords-63-20210101-d54f5f9252034829b1f2428ef15aaac9.csv
+go
+1
+Campaigns/sizmekco/439829_sizmek_sas_sizmek_sas-89-20210101-191ad56c6fff47f1876a48e365f6d589.csv
+si
+1
+Campaigns/sizmekmi/439831_sizmek_sas_sizmek_sas-97-20210511-9556b76ff4c84bf081849f4275f6bcbc.csv
+si
+2
+Campaigns/sizmekmi/439832_sizmek_sas_sizmek_sas-97-20210101-7f931208a3254084b3f45c684bacc949.csv
+si
+3
+Campaigns/sizmekmx/439830_sizmek_sas_sizmek_sas-98-20210101-5493622062544417b10965c415a6ed19.csv
+si
+4
+Campaigns/sizmekpr/439833_sizmek_sas_sizmek_sas-99-20210101-a5e7c97fe65145e2b26203e02b7d2154.csv
+si
+5
+1
+1
+sizmek uniques
+5
+otheruniques
+338
+13
+1
+1
+sizmek
+5
+13
+other
+338
+unida
+358
+lista de campañas únicas:
+['KTBO_2020_BRA_KELLOGGS_TRINK_SEASONAL_GREENCITY_FACEBOOK_INSTAGRAM_AWARENESS_CPM_LUNCH', 'MCMMIA_2021_SLV_Kelloggs_Corporate Promotions_Seasonal_Google_Youtube_Back to School_Affinity Audiences_CPV_Family Breakfast_ENE_L14', 'MCMCO_2020_COL_KELLOGGS_FROOTLOOPS_SEASONAL_FROOTLOOPSJUMBO_SIZMEK_FAMILYBREAKFAST_CPM-XAXIS-DISPLAY', 'MCMMIA_2021_CHL_Kelloggs_Masterbrand_Seasonal_DespiertaMuchoMas_Sizmek_BreakfastforOne_CPM-Xaxis-ScrollReactive', 'MCMMIA_2020_MEX_Kelloggs_Pringles_Seasonal_AlwaysOn_Sizmek_EveningMe_CPM-Xaxis-Video', 'MCMMX_2020_MEX_KELLOGGS_SPECIALK_SEASONAL_ORIGINAL_SIZMEK_BREAKFASTFORONE_CPC-XAXIS-STANDARDBANNERS', 'MCMPR_2020_CRI_KELLOGGS_CORPORATEPROMOTIONS_SEASONAL_CRAYOLA_SIZMEK_FAMILYBREAKFAST_CPM-XAXIS-DISPLAY', 'M', 'K', 'N', 'B', 'R', 'P', 'T', 'A', 'G', 'E', 'H', 'F', 'O', 'L', 'C', 'X', 'I']
+24
+Mediaplan
+                                             Mediaplan  ... Delivery status
+0      2021_ktbo_kube_Adverity_Mediaplan_Marzo-Caricam  ...           < 90%
+1      2021_ktbo_kube_Adverity_Mediaplan_Marzo-Caricam  ...           < 90%
+2    2020_ktbo_kube_Adverity_Mediaplan_Octubre-Caricam  ...           < 90%
+3    2020_ktbo_kube_Adverity_Mediaplan_Octubre-Caricam  ...           < 90%
+4      2021_ktbo_kube_Adverity_Mediaplan_Marzo-Caricam  ...           < 90%
+..                                                 ...  ...             ...
+131  2020_ktbo_kube_Adverity_Mediaplan_Octubre-Caricam  ...             NaN
+132  2020_ktbo_kube_Adverity_Mediaplan_Octubre-Caricam  ...             NaN
+133  2020_ktbo_kube_Adverity_Mediaplan_Octubre-Caricam  ...             NaN
+134  2020_ktbo_kube_Adverity_Mediaplan_Octubre-Caricam  ...             NaN
+135                                                NaN  ...             NaN
+
+[136 rows x 10 columns]
+Mediafacts
+     Unnamed: 0  ...                                                181
+0             0  ...                                                NaN
+1             1  ...  KTBO_2021_BRA_Kelloggs_Sucrilhos_Seasonal_Goog...
+2             2  ...                                                NaN
+3             3  ...                                                NaN
+4             4  ...                                                NaN
+..          ...  ...                                                ...
+353         353  ...                                                NaN
+354         354  ...                                                NaN
+355         355  ...                                                NaN
+356         356  ...                                                NaN
+357         357  ...                                                NaN
+
+[358 rows x 183 columns]
+working on it
+Completed 26.9 KiB/26.9 KiB (178.9 KiB/s) with 1 file(s) remainingupload: ./unmatched.csv to s3://testingmidktbo/unmatched.csv      
+sftp>   cd uploads/test
+sftp> 
+sftp>   lcd Campaigns/facebook
+sftp>   get facebook/*
+Fetching /uploads/test/facebook/439834_ads_insights_ads_insights-6-20210101-87bfb4893fdc498f80d62d2b319d8c49.csv to 439834_ads_insights_ads_insights-6-20210101-87bfb4893fdc498f80d62d2b319d8c49.csv
+Fetching /uploads/test/facebook/439887_ads_insights_ads_insights-6-20210512-e3a1d67e052447d8a65a1875e36b7a1a.csv to 439887_ads_insights_ads_insights-6-20210512-e3a1d67e052447d8a65a1875e36b7a1a.csv
+sftp>   lcd ..
+sftp>   lcd ..
+sftp> 
+sftp>   lcd Campaigns/sizmekpr
+sftp>   get sizmekpr/*
+Fetching /uploads/test/sizmekpr/439833_sizmek_sas_sizmek_sas-99-20210101-a5e7c97fe65145e2b26203e02b7d2154.csv to 439833_sizmek_sas_sizmek_sas-99-20210101-a5e7c97fe65145e2b26203e02b7d2154.csv
+Fetching /uploads/test/sizmekpr/440341_sizmek_sas_sizmek_sas-99-20210512-c89df3000b9d4122a785dd0eae1f2033.csv to 440341_sizmek_sas_sizmek_sas-99-20210512-c89df3000b9d4122a785dd0eae1f2033.csv
+sftp>   lcd ..
+sftp>   lcd ..
+sftp> 
+sftp>   lcd Campaigns/sizmekmx
+sftp>   get sizmekmx/*
+Fetching /uploads/test/sizmekmx/439830_sizmek_sas_sizmek_sas-98-20210101-5493622062544417b10965c415a6ed19.csv to 439830_sizmek_sas_sizmek_sas-98-20210101-5493622062544417b10965c415a6ed19.csv
+Fetching /uploads/test/sizmekmx/439972_sizmek_sas_sizmek_sas-98-20210512-effea7cca5fe421d86b56f8eadf9afdf.csv to 439972_sizmek_sas_sizmek_sas-98-20210512-effea7cca5fe421d86b56f8eadf9afdf.csv
+Fetching /uploads/test/sizmekmx/440518_sizmek_sas_sizmek_sas-98-20210512-89bd74de7ebe460697f0dbec47242a84.csv to 440518_sizmek_sas_sizmek_sas-98-20210512-89bd74de7ebe460697f0dbec47242a84.csv
+sftp>   lcd ..
+sftp>   lcd ..
+sftp> 
+sftp>   lcd Campaigns/sizmekmi
+sftp>   get sizmekmi/*
+Fetching /uploads/test/sizmekmi/439831_sizmek_sas_sizmek_sas-97-20210511-9556b76ff4c84bf081849f4275f6bcbc.csv to 439831_sizmek_sas_sizmek_sas-97-20210511-9556b76ff4c84bf081849f4275f6bcbc.csv
+Fetching /uploads/test/sizmekmi/439832_sizmek_sas_sizmek_sas-97-20210101-7f931208a3254084b3f45c684bacc949.csv to 439832_sizmek_sas_sizmek_sas-97-20210101-7f931208a3254084b3f45c684bacc949.csv
+Fetching /uploads/test/sizmekmi/440426_sizmek_sas_sizmek_sas-97-20210512-5299339de3ed427393a8f6bd45019ddf.csv to 440426_sizmek_sas_sizmek_sas-97-20210512-5299339de3ed427393a8f6bd45019ddf.csv
+sftp>   lcd ..
+sftp>   lcd ..
+sftp> 
+sftp>   lcd Campaigns/sizmekco
+sftp>   get sizmekco/*
+Fetching /uploads/test/sizmekco/439829_sizmek_sas_sizmek_sas-89-20210101-191ad56c6fff47f1876a48e365f6d589.csv to 439829_sizmek_sas_sizmek_sas-89-20210101-191ad56c6fff47f1876a48e365f6d589.csv
+Fetching /uploads/test/sizmekco/439973_sizmek_sas_sizmek_sas-89-20210512-b8a67afbd6e3462fa663afe8339309e0.csv to 439973_sizmek_sas_sizmek_sas-89-20210512-b8a67afbd6e3462fa663afe8339309e0.csv
+Fetching /uploads/test/sizmekco/440519_sizmek_sas_sizmek_sas-89-20210512-b5cabc21f77f40df8f2fb57688ee6cbb.csv to 440519_sizmek_sas_sizmek_sas-89-20210512-b5cabc21f77f40df8f2fb57688ee6cbb.csv
+sftp>   lcd ..
+sftp>   lcd ..
+sftp> 
+sftp> 
+sftp>   lcd Campaigns/google
+sftp>   get google/*
+Fetching /uploads/test/google/439828_adwords_adwords-63-20210101-d54f5f9252034829b1f2428ef15aaac9.csv to 439828_adwords_adwords-63-20210101-d54f5f9252034829b1f2428ef15aaac9.csv
+Fetching /uploads/test/google/439971_adwords_adwords-63-20210512-0d288464286040078158188056935a2b.csv to 439971_adwords_adwords-63-20210512-0d288464286040078158188056935a2b.csv
+Fetching /uploads/test/google/440425_adwords_adwords-63-20210512-e69f633aa7f44076b63902808e760869.csv to 440425_adwords_adwords-63-20210512-e69f633aa7f44076b63902808e760869.csv
+sftp>   lcd ..
+sftp>   lcd ..
+sftp> 
+sftp> 
+sftp>   lcd Campaigns/youtube
+sftp>   get youtube/*
+sftp>   lcd ..
+sftp>   lcd ..
+sftp> 
+sftp> 
+sftp> #  lcd mp
+sftp> #  get mp/*
+sftp> #  lcd ..
+sftp> #  rmdir mp
+sftp> #  mkdir mp
+sftp> 
+sftp> #  lcd twitter
+sftp> #  get twitter/*
+sftp> #  lcd ..
+sftp> #  rmdir twitter
+sftp> #  mkdir twitter
+sftp> 
+sftp> #  lcd othercampaigns
+sftp> #  get othercampaigns/*
+sftp> #  lcd ..
+sftp> #  rmdir othercampaigns
+sftp> #  mkdir othercampaigns
+sftp> 
+sftp> 
+sftp>   bye
+Completed 256.0 KiB/406.6 KiB (2.3 MiB/s) with 1 file(s) remainingCompleted 406.6 KiB/406.6 KiB (3.4 MiB/s) with 1 file(s) remainingdownload: s3://othercampaigns/acumulado_other/pautas_locales_acumulado_other.xlsx to Campaigns/othercampaigns/acumulado_other.xlsx
+Completed 14.2 KiB/14.2 KiB (310.8 KiB/s) with 1 file(s) remainingdownload: s3://othercampaigns/acumulado_twitter/pautas_locales_acumulado_twitter.xlsx to Campaigns/twitter/acumulado_twitter.xlsx
+Twitter length:
+13
+Other Campaigns length:
+338
+Campaigns/facebook/439834_ads_insights_ads_insights-6-20210101-87bfb4893fdc498f80d62d2b319d8c49.csv
+fb
+1
+Campaigns/facebook/439887_ads_insights_ads_insights-6-20210512-e3a1d67e052447d8a65a1875e36b7a1a.csv
+fb
+2
+Campaigns/google/439828_adwords_adwords-63-20210101-d54f5f9252034829b1f2428ef15aaac9.csv
+go
+1
+Campaigns/google/439971_adwords_adwords-63-20210512-0d288464286040078158188056935a2b.csv
+go
+2
+Campaigns/google/440425_adwords_adwords-63-20210512-e69f633aa7f44076b63902808e760869.csv
+go
+3
+Campaigns/sizmekco/439829_sizmek_sas_sizmek_sas-89-20210101-191ad56c6fff47f1876a48e365f6d589.csv
+si
+1
+Campaigns/sizmekco/439973_sizmek_sas_sizmek_sas-89-20210512-b8a67afbd6e3462fa663afe8339309e0.csv
+si
+2
+Campaigns/sizmekco/440519_sizmek_sas_sizmek_sas-89-20210512-b5cabc21f77f40df8f2fb57688ee6cbb.csv
+si
+3
+Campaigns/sizmekmi/439831_sizmek_sas_sizmek_sas-97-20210511-9556b76ff4c84bf081849f4275f6bcbc.csv
+si
+4
+Campaigns/sizmekmi/439832_sizmek_sas_sizmek_sas-97-20210101-7f931208a3254084b3f45c684bacc949.csv
+si
+5
+Campaigns/sizmekmi/440426_sizmek_sas_sizmek_sas-97-20210512-5299339de3ed427393a8f6bd45019ddf.csv
+si
+6
+Campaigns/sizmekmx/439830_sizmek_sas_sizmek_sas-98-20210101-5493622062544417b10965c415a6ed19.csv
+si
+7
+Campaigns/sizmekmx/439972_sizmek_sas_sizmek_sas-98-20210512-effea7cca5fe421d86b56f8eadf9afdf.csv
+si
+8
+Campaigns/sizmekmx/440518_sizmek_sas_sizmek_sas-98-20210512-89bd74de7ebe460697f0dbec47242a84.csv
+si
+9
+Campaigns/sizmekpr/439833_sizmek_sas_sizmek_sas-99-20210101-a5e7c97fe65145e2b26203e02b7d2154.csv
+si
+10
+Campaigns/sizmekpr/440341_sizmek_sas_sizmek_sas-99-20210512-c89df3000b9d4122a785dd0eae1f2033.csv
+si
+11
+2
+2
+sizmek uniques
+8
+otheruniques
+338
+13
+2
+3
+sizmek
+11
+13
+other
+338
+unida
+367
+Mediaplan
+                                             Mediaplan  ... Delivery status
+0      2021_ktbo_kube_Adverity_Mediaplan_Marzo-Caricam  ...           < 90%
+1      2021_ktbo_kube_Adverity_Mediaplan_Marzo-Caricam  ...           < 90%
+2    2020_ktbo_kube_Adverity_Mediaplan_Octubre-Caricam  ...           < 90%
+3    2020_ktbo_kube_Adverity_Mediaplan_Octubre-Caricam  ...           < 90%
+4      2021_ktbo_kube_Adverity_Mediaplan_Marzo-Caricam  ...           < 90%
+..                                                 ...  ...             ...
+131  2020_ktbo_kube_Adverity_Mediaplan_Octubre-Caricam  ...             NaN
+132  2020_ktbo_kube_Adverity_Mediaplan_Octubre-Caricam  ...             NaN
+133  2020_ktbo_kube_Adverity_Mediaplan_Octubre-Caricam  ...             NaN
+134  2020_ktbo_kube_Adverity_Mediaplan_Octubre-Caricam  ...             NaN
+135                                                NaN  ...             NaN
+
+[136 rows x 10 columns]
+Mediafacts
+     Unnamed: 0  ...                                                181
+0             0  ...                                                NaN
+1             1  ...  KTBO_2021_BRA_Kelloggs_Sucrilhos_Seasonal_Goog...
+2             2  ...                                                NaN
+3             3  ...                                                NaN
+4             4  ...                                                NaN
+..          ...  ...                                                ...
+353         353  ...                                                NaN
+354         354  ...                                                NaN
+355         355  ...                                                NaN
+356         356  ...                                                NaN
+357         357  ...                                                NaN
+
+[358 rows x 183 columns]
+working on it
+Completed 26.9 KiB/26.9 KiB (142.3 KiB/s) with 1 file(s) remainingupload: ./unmatched.csv to s3://testingmidktbo/unmatched.csv      
+sftp>   cd uploads/test
+sftp> 
+sftp>   lcd Campaigns/facebook
+sftp>   get facebook/*
+Fetching /uploads/test/facebook/439834_ads_insights_ads_insights-6-20210101-87bfb4893fdc498f80d62d2b319d8c49.csv to 439834_ads_insights_ads_insights-6-20210101-87bfb4893fdc498f80d62d2b319d8c49.csv
+Fetching /uploads/test/facebook/439887_ads_insights_ads_insights-6-20210512-e3a1d67e052447d8a65a1875e36b7a1a.csv to 439887_ads_insights_ads_insights-6-20210512-e3a1d67e052447d8a65a1875e36b7a1a.csv
+sftp>   lcd ..
+sftp>   lcd ..
+sftp> 
+sftp>   lcd Campaigns/sizmekpr
+sftp>   get sizmekpr/*
+Fetching /uploads/test/sizmekpr/439833_sizmek_sas_sizmek_sas-99-20210101-a5e7c97fe65145e2b26203e02b7d2154.csv to 439833_sizmek_sas_sizmek_sas-99-20210101-a5e7c97fe65145e2b26203e02b7d2154.csv
+Fetching /uploads/test/sizmekpr/440341_sizmek_sas_sizmek_sas-99-20210512-c89df3000b9d4122a785dd0eae1f2033.csv to 440341_sizmek_sas_sizmek_sas-99-20210512-c89df3000b9d4122a785dd0eae1f2033.csv
+sftp>   lcd ..
+sftp>   lcd ..
+sftp> 
+sftp>   lcd Campaigns/sizmekmx
+sftp>   get sizmekmx/*
+Fetching /uploads/test/sizmekmx/439830_sizmek_sas_sizmek_sas-98-20210101-5493622062544417b10965c415a6ed19.csv to 439830_sizmek_sas_sizmek_sas-98-20210101-5493622062544417b10965c415a6ed19.csv
+Fetching /uploads/test/sizmekmx/439972_sizmek_sas_sizmek_sas-98-20210512-effea7cca5fe421d86b56f8eadf9afdf.csv to 439972_sizmek_sas_sizmek_sas-98-20210512-effea7cca5fe421d86b56f8eadf9afdf.csv
+Fetching /uploads/test/sizmekmx/440518_sizmek_sas_sizmek_sas-98-20210512-89bd74de7ebe460697f0dbec47242a84.csv to 440518_sizmek_sas_sizmek_sas-98-20210512-89bd74de7ebe460697f0dbec47242a84.csv
+sftp>   lcd ..
+sftp>   lcd ..
+sftp> 
+sftp>   lcd Campaigns/sizmekmi
+sftp>   get sizmekmi/*
+Fetching /uploads/test/sizmekmi/439831_sizmek_sas_sizmek_sas-97-20210511-9556b76ff4c84bf081849f4275f6bcbc.csv to 439831_sizmek_sas_sizmek_sas-97-20210511-9556b76ff4c84bf081849f4275f6bcbc.csv
+Fetching /uploads/test/sizmekmi/439832_sizmek_sas_sizmek_sas-97-20210101-7f931208a3254084b3f45c684bacc949.csv to 439832_sizmek_sas_sizmek_sas-97-20210101-7f931208a3254084b3f45c684bacc949.csv
+Fetching /uploads/test/sizmekmi/440426_sizmek_sas_sizmek_sas-97-20210512-5299339de3ed427393a8f6bd45019ddf.csv to 440426_sizmek_sas_sizmek_sas-97-20210512-5299339de3ed427393a8f6bd45019ddf.csv
+sftp>   lcd ..
+sftp>   lcd ..
+sftp> 
+sftp>   lcd Campaigns/sizmekco
+sftp>   get sizmekco/*
+Fetching /uploads/test/sizmekco/439829_sizmek_sas_sizmek_sas-89-20210101-191ad56c6fff47f1876a48e365f6d589.csv to 439829_sizmek_sas_sizmek_sas-89-20210101-191ad56c6fff47f1876a48e365f6d589.csv
+Fetching /uploads/test/sizmekco/439973_sizmek_sas_sizmek_sas-89-20210512-b8a67afbd6e3462fa663afe8339309e0.csv to 439973_sizmek_sas_sizmek_sas-89-20210512-b8a67afbd6e3462fa663afe8339309e0.csv
+Fetching /uploads/test/sizmekco/440519_sizmek_sas_sizmek_sas-89-20210512-b5cabc21f77f40df8f2fb57688ee6cbb.csv to 440519_sizmek_sas_sizmek_sas-89-20210512-b5cabc21f77f40df8f2fb57688ee6cbb.csv
+sftp>   lcd ..
+sftp>   lcd ..
+sftp> 
+sftp> 
+sftp>   lcd Campaigns/google
+sftp>   get google/*
+Fetching /uploads/test/google/439828_adwords_adwords-63-20210101-d54f5f9252034829b1f2428ef15aaac9.csv to 439828_adwords_adwords-63-20210101-d54f5f9252034829b1f2428ef15aaac9.csv
+Fetching /uploads/test/google/439971_adwords_adwords-63-20210512-0d288464286040078158188056935a2b.csv to 439971_adwords_adwords-63-20210512-0d288464286040078158188056935a2b.csv
+Fetching /uploads/test/google/440425_adwords_adwords-63-20210512-e69f633aa7f44076b63902808e760869.csv to 440425_adwords_adwords-63-20210512-e69f633aa7f44076b63902808e760869.csv
+sftp>   lcd ..
+sftp>   lcd ..
+sftp> 
+sftp> 
+sftp>   lcd Campaigns/youtube
+sftp>   get youtube/*
+sftp>   lcd ..
+sftp>   lcd ..
+sftp> 
+sftp> 
+sftp> #  lcd mp
+sftp> #  get mp/*
+sftp> #  lcd ..
+sftp> #  rmdir mp
+sftp> #  mkdir mp
+sftp> 
+sftp> #  lcd twitter
+sftp> #  get twitter/*
+sftp> #  lcd ..
+sftp> #  rmdir twitter
+sftp> #  mkdir twitter
+sftp> 
+sftp> #  lcd othercampaigns
+sftp> #  get othercampaigns/*
+sftp> #  lcd ..
+sftp> #  rmdir othercampaigns
+sftp> #  mkdir othercampaigns
+sftp> 
+sftp> 
+sftp>   bye
+Completed 256.0 KiB/406.6 KiB (2.9 MiB/s) with 1 file(s) remainingCompleted 406.6 KiB/406.6 KiB (4.6 MiB/s) with 1 file(s) remainingdownload: s3://othercampaigns/acumulado_other/pautas_locales_acumulado_other.xlsx to Campaigns/othercampaigns/acumulado_other.xlsx
+Completed 14.2 KiB/14.2 KiB (266.9 KiB/s) with 1 file(s) remainingdownload: s3://othercampaigns/acumulado_twitter/pautas_locales_acumulado_twitter.xlsx to Campaigns/twitter/acumulado_twitter.xlsx
+Twitter length:
+13
+Other Campaigns length:
+338
+Campaigns/facebook/439834_ads_insights_ads_insights-6-20210101-87bfb4893fdc498f80d62d2b319d8c49.csv
+fb
+1
+Campaigns/facebook/439887_ads_insights_ads_insights-6-20210512-e3a1d67e052447d8a65a1875e36b7a1a.csv
+fb
+2
+Campaigns/google/439828_adwords_adwords-63-20210101-d54f5f9252034829b1f2428ef15aaac9.csv
+go
+1
+Campaigns/google/439971_adwords_adwords-63-20210512-0d288464286040078158188056935a2b.csv
+go
+2
+Campaigns/google/440425_adwords_adwords-63-20210512-e69f633aa7f44076b63902808e760869.csv
+go
+3
+Campaigns/sizmekco/439829_sizmek_sas_sizmek_sas-89-20210101-191ad56c6fff47f1876a48e365f6d589.csv
+si
+1
+Campaigns/sizmekco/439973_sizmek_sas_sizmek_sas-89-20210512-b8a67afbd6e3462fa663afe8339309e0.csv
+si
+2
+Campaigns/sizmekco/440519_sizmek_sas_sizmek_sas-89-20210512-b5cabc21f77f40df8f2fb57688ee6cbb.csv
+si
+3
+Campaigns/sizmekmi/439831_sizmek_sas_sizmek_sas-97-20210511-9556b76ff4c84bf081849f4275f6bcbc.csv
+si
+4
+Campaigns/sizmekmi/439832_sizmek_sas_sizmek_sas-97-20210101-7f931208a3254084b3f45c684bacc949.csv
+si
+5
+Campaigns/sizmekmi/440426_sizmek_sas_sizmek_sas-97-20210512-5299339de3ed427393a8f6bd45019ddf.csv
+si
+6
+Campaigns/sizmekmx/439830_sizmek_sas_sizmek_sas-98-20210101-5493622062544417b10965c415a6ed19.csv
+si
+7
+Campaigns/sizmekmx/439972_sizmek_sas_sizmek_sas-98-20210512-effea7cca5fe421d86b56f8eadf9afdf.csv
+si
+8
+Campaigns/sizmekmx/440518_sizmek_sas_sizmek_sas-98-20210512-89bd74de7ebe460697f0dbec47242a84.csv
+si
+9
+Campaigns/sizmekpr/439833_sizmek_sas_sizmek_sas-99-20210101-a5e7c97fe65145e2b26203e02b7d2154.csv
+si
+10
+Campaigns/sizmekpr/440341_sizmek_sas_sizmek_sas-99-20210512-c89df3000b9d4122a785dd0eae1f2033.csv
+si
+11
+2
+2
+sizmek uniques
+8
+otheruniques
+338
+13
+2
+3
+sizmek
+11
+13
+other
+338
+unida
+367
+Mediaplan
+                                             Mediaplan  ... Delivery status
+0      2021_ktbo_kube_Adverity_Mediaplan_Marzo-Caricam  ...           < 90%
+1      2021_ktbo_kube_Adverity_Mediaplan_Marzo-Caricam  ...           < 90%
+2    2020_ktbo_kube_Adverity_Mediaplan_Octubre-Caricam  ...           < 90%
+3    2020_ktbo_kube_Adverity_Mediaplan_Octubre-Caricam  ...           < 90%
+4      2021_ktbo_kube_Adverity_Mediaplan_Marzo-Caricam  ...           < 90%
+..                                                 ...  ...             ...
+131  2020_ktbo_kube_Adverity_Mediaplan_Octubre-Caricam  ...             NaN
+132  2020_ktbo_kube_Adverity_Mediaplan_Octubre-Caricam  ...             NaN
+133  2020_ktbo_kube_Adverity_Mediaplan_Octubre-Caricam  ...             NaN
+134  2020_ktbo_kube_Adverity_Mediaplan_Octubre-Caricam  ...             NaN
+135                                                NaN  ...             NaN
+
+[136 rows x 10 columns]
+Mediafacts
+     Unnamed: 0  ...                                                181
+0             0  ...                                                NaN
+1             1  ...  KTBO_2021_BRA_Kelloggs_Sucrilhos_Seasonal_Goog...
+2             2  ...                                                NaN
+3             3  ...                                                NaN
+4             4  ...                                                NaN
+..          ...  ...                                                ...
+353         353  ...                                                NaN
+354         354  ...                                                NaN
+355         355  ...                                                NaN
+356         356  ...                                                NaN
+357         357  ...                                                NaN
+
+[358 rows x 183 columns]
+working on it
+Completed 26.9 KiB/26.9 KiB (139.4 KiB/s) with 1 file(s) remainingupload: ./unmatched.csv to s3://testingmidktbo/unmatched.csv      
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-Mexico.xlsx
+['Sizmek Sas' 'Other Channels' 'Facebook Ads Insights' 'Google Adwords']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-Colombia.xlsx
+['Google Adwords' 'Facebook Ads Insights' 'Other Channels' 'Sizmek Sas']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-Caricam.xlsx
+['Sizmek Sas' 'Other Channels' 'Facebook Ads Insights' 'Google Adwords']
+Mediaplan/result/2021​_ktbo_kube_Adverity​_Mediaplan_Abril-Caricam.xlsx
+['Sizmek Sas' 'Other Channels' 'Facebook Ads Insights' 'Google Adwords']
+Mediaplan/result/2020_ktbo_kube_Adverity_Mediaplan_Octubre-Caricam.xlsx
+['Facebook Ads Insights' 'Google Adwords' 'Other Channels' 'Sizmek Sas']
+Mediaplan/result/2021_ktbo_kube_Adverity-Mediaplan_Abril-PromoXbox.xlsx
+['Facebook Ads Insights' 'Sizmek Sas' 'Google Adwords' 'Other Channels']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-Miami.xlsx
+['Google Adwords' 'Facebook Ads Insights' 'Sizmek Sas']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-Ecuador.xlsx
+['Other Channels' 'Facebook Ads Insights']
+Mediaplan
+                       Vendor  ...                                     Campaign upper
+0   Traditional Display Media  ...  MCMMX_2021_MEX_KELLOGGS_CHOCOKRISPIS_SEASONAL_...
+1   Traditional Display Media  ...  MCMMX_2021_MEX_KELLOGGS_CHOCOKRISPIS_SEASONAL_...
+2                      Google  ...  MCMMX_2021_MEX_KELLOGGS_CHOCOKRISPIS_SEASONAL_...
+3                    Facebook  ...  MCMMX_2021_MEX_KELLOGGS_CHOCOKRISPIS_SEASONAL_...
+4   Traditional Display Media  ...  MCMMX_2021_MEX_KELLOGGS_EXTRA_SEASONAL_EXTRA_C...
+..                        ...  ...                                                ...
+0   Traditional Display Media  ...  MCMECU_2021_ECU_KELLOGGS_ZUCARITAS_SEASONAL_PU...
+1   Traditional Display Media  ...  MCMECU_2021_ECU_KELLOGGS_ZUCARITAS_SEASONAL_PU...
+2                    Facebook  ...  MCMMIA_2021_ECU_KELLOGGS_ZUCARITAS_SEASONAL_PU...
+3   Traditional Display Media  ...  MCMECU_2021_ECU_KELLOGGS_ZUCARITAS_SEASONAL_PU...
+4                    Facebook  ...  MCMMIA_2021_ECU_KELLOGGS_ZUCARITAS_SEASONAL_PU...
+
+[554 rows x 8 columns]
+Mediafacts
+                                              Campaign  ...                                      Campaign Name
+0    MCMMIA_2020_ARG_Kelloggs_Pringles_Seasonal_Mov...  ...  MCMMIA_2020_ARG_KELLOGGS_PRINGLES_SEASONAL_MOV...
+1    MCMCO_2020_COL_Kelloggs_Corporate Promotions_S...  ...  MCMCO_2020_COL_KELLOGGS_CORPORATEPROMOTIONS_SE...
+2    MCMCO_2020_COL_Kelloggs_Masterbrand_Seasonal_I...  ...  MCMCO_2020_COL_KELLOGGS_MASTERBRAND_SEASONAL_I...
+3    MCMCO_2020_COL_Kelloggs_Masterbrand_Seasonal_I...  ...  MCMCO_2020_COL_KELLOGGS_MASTERBRAND_SEASONAL_I...
+4    MCMCO_2020_COL_Kelloggs_Masterbrand_Seasonal_I...  ...  MCMCO_2020_COL_KELLOGGS_MASTERBRAND_SEASONAL_I...
+..                                                 ...  ...                                                ...
+417                                                NaN  ...  MCMPR_2021_SLV_KELLOGGS_CORPORATEPROMOTIONS_SE...
+418                                                NaN  ...  MCMPR_2021_SLV_KELLOGGS_KOMPLETE_SEASONAL_KOMP...
+419                                                NaN  ...  MCMPR_2021_SLV_KELLOGGS_MASTERBRAND_SEASONAL_D...
+420                                                NaN  ...  MCMPR_2021_SVL_KELLOGGS_CORPORATEPROMOTIONS_SE...
+421                                                NaN  ...  MCMMX_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_PROM...
+
+[4155 rows x 5 columns]
+matched:                                           Campaign Name  ... is_campaign
+887   MCMPR_2020_PRI_KELLOGGS_ZUCARITAS_SEASONAL_MIS...  ...        True
+888   MCMPR_2020_PRI_KELLOGGS_ZUCARITAS_SEASONAL_MIS...  ...        True
+889   MCMPR_2020_PRI_KELLOGGS_ZUCARITAS_SEASONAL_MIS...  ...        True
+890   MCMPR_2020_PRI_KELLOGGS_ZUCARITAS_SEASONAL_MIS...  ...        True
+891   MCMPR_2020_PRI_KELLOGGS_ZUCARITAS_SEASONAL_MIS...  ...        True
+...                                                 ...  ...         ...
+4630  MCMPR_2021_SLV_KELLOGGS_CORPORATEPROMOTIONS_SE...  ...        True
+4631  MCMPR_2021_SLV_KELLOGGS_KOMPLETE_SEASONAL_KOMP...  ...        True
+4632  MCMPR_2021_SLV_KELLOGGS_KOMPLETE_SEASONAL_KOMP...  ...        True
+4633  MCMPR_2021_SLV_KELLOGGS_MASTERBRAND_SEASONAL_D...  ...        True
+4634  MCMPR_2021_SLV_KELLOGGS_MASTERBRAND_SEASONAL_D...  ...        True
+
+[1456 rows x 7 columns] Index(['Campaign Name', 'Datasource_x', 'is_fact', 'Mediaplan',
+       'Campaign Mp Label', 'Datasource_y', 'is_campaign'],
+      dtype='object')
+unmatched                                           Campaign Name  ... is_campaign
+4637  MCMMX_2021_MEX_KELLOGGS_CORPORATEAFFAIRS_SEASO...  ...        True
+4638  MCMMX_2021_MEX_KELLOGGS_CORPORATEAFFAIRS_SEASO...  ...        True
+4639  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_A...  ...        True
+4640  MCMMIA_2021_COL_KELLOGGS_CORPORATEPROMOTIONS_S...  ...        True
+4641  MCMCO_2021_COL_KELLOGGS_CORPORATEPROMOTIONS_SE...  ...        True
+4642  MCMMIA_2021_COL_KELLOGGS_ZUCARITAS_SEASONAL_PU...  ...        True
+4643  MCMMIA_2021_COL_KELLOGGS_CORPORATEPROMOTIONS_S...  ...        True
+4644  MCMMIA_2021_COL_KELLOGGS_ZUCARITAS_SEASONAL_PU...  ...        True
+4645  MCMCO_2021_COL_KELLOGGS_HEALTHYKIDS_SEASONAL_H...  ...        True
+4646  MCMMIA_2021_COL_KELLOGGS_PRINGLES_SEASONAL_ALW...  ...        True
+4647  MCMPR_2021_GTM_KELLOGGS_SPECIALKBARS_SEASONAL_...  ...        True
+4648  MCMPR_2021_GTM_KELLOGGS_SPECIALKBARS_SEASONAL_...  ...        True
+4649  MCMPR_2021_CRI_KELLOGGS_SPECIALKBARS_SEASONAL_...  ...        True
+4650  MCMPR_2021_CRI_KELLOGGS_SPECIALKBARS_SEASONAL_...  ...        True
+4651  MCMPR_2021_SLV_KELLOGGS_CORPORATEPROMOTIONS_SE...  ...        True
+4652  MCMPR_2021_SLV_KELLOGGS_CORPORATEPROMOTIONS_SE...  ...        True
+4653  MCMMIA_2020_PRI_KELLOGGS_ZUCARITAS_SEASONAL_MI...  ...        True
+4654  MCMMIA_2020_PRI_KELLOGGS_ZUCARITAS_SEASONAL_GO...  ...        True
+4655  MCMMIA_2020_PRI_KELLOGGS_SPECIALK_SEASONAL_REP...  ...        True
+4656  MCMMIA_2020_JAM_KELLOGGS_CHEEZIT_SEASONAL_CHEE...  ...        True
+4657  MCMMIA_2020_BMU_KELLOGGS_CHEEZIT_SEASONAL_CHEE...  ...        True
+4658  MCMPR_2020_BMU_KELLOGGS_CHEEZIT_SEASONAL_CHEEZ...  ...        True
+4659  MCMPR_2020_BMU_KELLOGGS_CHEEZIT_SEASONAL_CHEEZ...  ...        True
+4660  MCMMIA_2020_PRI_KELLOGGS_FROOTLOOPS_SEASONAL_F...  ...        True
+4661  MCMMIA_2020_DOM_KELLOGGS_FROOTLOOPS_SEASONAL_F...  ...        True
+4662  MCMMIA_2020_GTM_KELLOGGS_KOMPLETE_SEASONAL_KOM...  ...        True
+4663  MCMMIA_2020_CRI_KELLOGGS_KOMPLETE_SEASONAL_KOM...  ...        True
+4664  MCMMIA_2020_CRI_KELLOGGS_PRINGLES_SEASONAL_DES...  ...        True
+4665  MCMMIA_2020_PAN_KELLOGGS_PRINGLES_SEASONAL_DES...  ...        True
+4666  MCMMIA_2020_SLV_KELLOGGS_PRINGLES_SEASONAL_DES...  ...        True
+4667  MCMMIA_2020_JAM_KELLOGGS_RICEKRISPIES_SEASONAL...  ...        True
+4668  MCMMIA_2020_BHS_KELLOGGS_RICEKRISPIES_SEASONAL...  ...        True
+4669  MCMPR_2020_JAM_KELLOGGS_RICEKRISPIES_SEASONAL_...  ...        True
+4670  MCMPR_2020_BHS_KELLOGGS_RICEKRISPIES_SEASONAL_...  ...        True
+4671  MCMMIA_2020_PRI_KELLOGGS_ZUCARITAS_SEASONAL_MI...  ...        True
+4672  MCMMIA_2020_GTM_KELLOGGS_CHOCOKRISPIS_SEASONAL...  ...        True
+4673  MCMMIA_2020_CRI_KELLOGGS_CHOCOKRISPIS_SEASONAL...  ...        True
+4674  MCMMIA_2020_SLV_KELLOGGS_CHOCOKRISPIS_SEASONAL...  ...        True
+4675  MCMMIA_2020_PAN_KELLOGGS_CHOCOKRISPIS_SEASONAL...  ...        True
+4676  MCMMIA_2020_DOM_KELLOGGS_SPECIALK_SEASONAL_REP...  ...        True
+4677  MCMPR_2020_CRI_KELLOGGS_SPECIALKBARS_SEASONAL_...  ...        True
+4678  MCMPR_2020_GTM_KELLOGGS_SPECIALKBARS_SEASONAL_...  ...        True
+4679  MCMPR_2020_CRI_KELLOGGS_SPECIALKBARS_SEASONAL_...  ...        True
+4680  MCMMIA_2020_NIC_KELLOGGS_MASTERBRAND_SEASONAL_...  ...        True
+4681  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_PRO...  ...        True
+4682  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_PRO...  ...        True
+4683  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_PRO...  ...        True
+4684  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_GOO...  ...        True
+4685  MCMMIA_2021_CHL_KELLOGGS_MASTERBRAND_SEASONAL_...  ...        True
+4686  MCMMIA_2021_CHL_KELLOGGS_MASTERBRAND_SEASONAL_...  ...        True
+4687  MCMMIA_2021_CHL_KELLOGGS_MASTERBRAND_SEASONAL_...  ...        True
+4688  MCMMIA_2021_CHL_KELLOGGS_MASTERBRAND_SEASONAL_...  ...        True
+
+[52 rows x 7 columns] Index(['Campaign Name', 'Datasource_x', 'is_fact', 'Mediaplan',
+       'Campaign Mp Label', 'Datasource_y', 'is_campaign'],
+      dtype='object')
+Matching:  1456
+Unmatching:  52
+match rate: 96.55172413793103 %
+0
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-Caricam.xlsx
+['Sizmek Sas' 'Other Channels' 'Facebook Ads Insights' 'Google Adwords']
+Mediaplan/result/2021_ktbo_kube_Adverity-Mediaplan_Abril-PromoXbox.xlsx
+['Facebook Ads Insights' 'Sizmek Sas' 'Google Adwords' 'Other Channels']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-Miami.xlsx
+['Google Adwords' 'Facebook Ads Insights' 'Sizmek Sas']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-Ecuador.xlsx
+['Other Channels' 'Facebook Ads Insights']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-Colombia.xlsx
+['Google Adwords' 'Facebook Ads Insights' 'Other Channels' 'Sizmek Sas']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-Mexico.xlsx
+['Sizmek Sas' 'Other Channels' 'Facebook Ads Insights' 'Google Adwords']
+Mediaplan
+                       Vendor  ...                                     Campaign upper
+0   Traditional Display Media  ...  MCMPR_2021_PRI_KELLOGGS_SPECIALK_SEASONAL_YOSO...
+1   Traditional Display Media  ...  MCMPR_2021_GTM_KELLOGGS_PRINGLES_SEASONAL_VERA...
+2   Traditional Display Media  ...  MCMPR_2021_GTM_KELLOGGS_PRINGLES_SEASONAL_VERA...
+3   Traditional Display Media  ...  MCMPR_2021_CRI_KELLOGGS_PRINGLES_SEASONAL_VERA...
+4   Traditional Display Media  ...  MCMPR_2021_CRI_KELLOGGS_PRINGLES_SEASONAL_VERA...
+..                        ...  ...                                                ...
+66                   Facebook  ...  MCMMIA_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_ALW...
+67  Traditional Display Media  ...  MCMMX_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_ALWA...
+68  Traditional Display Media  ...  MCMMX_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_MEGA...
+69  Traditional Display Media  ...  MCMMX_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_REDC...
+70  Traditional Display Media  ...  MCMMX_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_REDC...
+
+[302 rows x 8 columns]
+Mediafacts
+                                              Campaign  ...                                      Campaign Name
+0    MCMMIA_2020_ARG_Kelloggs_Pringles_Seasonal_Mov...  ...  MCMMIA_2020_ARG_KELLOGGS_PRINGLES_SEASONAL_MOV...
+1    MCMCO_2020_COL_Kelloggs_Corporate Promotions_S...  ...  MCMCO_2020_COL_KELLOGGS_CORPORATEPROMOTIONS_SE...
+2    MCMCO_2020_COL_Kelloggs_Masterbrand_Seasonal_I...  ...  MCMCO_2020_COL_KELLOGGS_MASTERBRAND_SEASONAL_I...
+3    MCMCO_2020_COL_Kelloggs_Masterbrand_Seasonal_I...  ...  MCMCO_2020_COL_KELLOGGS_MASTERBRAND_SEASONAL_I...
+4    MCMCO_2020_COL_Kelloggs_Masterbrand_Seasonal_I...  ...  MCMCO_2020_COL_KELLOGGS_MASTERBRAND_SEASONAL_I...
+..                                                 ...  ...                                                ...
+417                                                NaN  ...  MCMPR_2021_SLV_KELLOGGS_CORPORATEPROMOTIONS_SE...
+418                                                NaN  ...  MCMPR_2021_SLV_KELLOGGS_KOMPLETE_SEASONAL_KOMP...
+419                                                NaN  ...  MCMPR_2021_SLV_KELLOGGS_MASTERBRAND_SEASONAL_D...
+420                                                NaN  ...  MCMPR_2021_SVL_KELLOGGS_CORPORATEPROMOTIONS_SE...
+421                                                NaN  ...  MCMMX_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_PROM...
+
+[4155 rows x 5 columns]
+matched:                                           Campaign Name  ... is_campaign
+1560  MCMMX_2021_MEX_KELLOGGS_EXTRA_SEASONAL_EXTRA_C...  ...        True
+1561  MCMMX_2021_MEX_KELLOGGS_EXTRA_SEASONAL_EXTRA_C...  ...        True
+1562  MCMMX_2021_MEX_KELLOGGS_EXTRA_SEASONAL_EXTRA_C...  ...        True
+1563  MCMMX_2021_MEX_KELLOGGS_EXTRA_SEASONAL_EXTRA_C...  ...        True
+1564  MCMMX_2021_MEX_KELLOGGS_EXTRA_SEASONAL_EXTRA_C...  ...        True
+...                                                 ...  ...         ...
+4148  MCMPR_2021_SLV_KELLOGGS_CHOCOKRISPIS_SEASONAL_...  ...        True
+4149  MCMPR_2021_SLV_KELLOGGS_CORPORATEPROMOTIONS_SE...  ...        True
+4150  MCMPR_2021_SLV_KELLOGGS_CORPORATEPROMOTIONS_SE...  ...        True
+4151  MCMPR_2021_SLV_KELLOGGS_KOMPLETE_SEASONAL_KOMP...  ...        True
+4152  MCMPR_2021_SLV_KELLOGGS_MASTERBRAND_SEASONAL_D...  ...        True
+
+[707 rows x 7 columns] Index(['Campaign Name', 'Datasource_x', 'is_fact', 'Mediaplan',
+       'Campaign Mp Label', 'Datasource_y', 'is_campaign'],
+      dtype='object')
+unmatched                                           Campaign Name  ... is_campaign
+4155  MCMPR_2021_GTM_KELLOGGS_SPECIALKBARS_SEASONAL_...  ...        True
+4156  MCMPR_2021_CRI_KELLOGGS_SPECIALKBARS_SEASONAL_...  ...        True
+4157  MCMPR_2021_SLV_KELLOGGS_CORPORATEPROMOTIONS_SE...  ...        True
+4158  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_PRO...  ...        True
+4159  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_PRO...  ...        True
+4160  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_PRO...  ...        True
+4161  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_GOO...  ...        True
+4162  MCMMIA_2021_CHL_KELLOGGS_MASTERBRAND_SEASONAL_...  ...        True
+4163  MCMMIA_2021_CHL_KELLOGGS_MASTERBRAND_SEASONAL_...  ...        True
+4164  MCMMIA_2021_CHL_KELLOGGS_MASTERBRAND_SEASONAL_...  ...        True
+4165  MCMMIA_2021_CHL_KELLOGGS_MASTERBRAND_SEASONAL_...  ...        True
+4166  MCMMIA_2021_COL_KELLOGGS_CORPORATEPROMOTIONS_S...  ...        True
+4167  MCMCO_2021_COL_KELLOGGS_CORPORATEPROMOTIONS_SE...  ...        True
+4168  MCMMIA_2021_COL_KELLOGGS_ZUCARITAS_SEASONAL_PU...  ...        True
+4169  MCMMIA_2021_COL_KELLOGGS_CORPORATEPROMOTIONS_S...  ...        True
+4170  MCMMIA_2021_COL_KELLOGGS_ZUCARITAS_SEASONAL_PU...  ...        True
+4171  MCMCO_2021_COL_KELLOGGS_HEALTHYKIDS_SEASONAL_H...  ...        True
+4172  MCMMIA_2021_COL_KELLOGGS_PRINGLES_SEASONAL_ALW...  ...        True
+4173  MCMMX_2021_MEX_KELLOGGS_CORPORATEAFFAIRS_SEASO...  ...        True
+4174  MCMMX_2021_MEX_KELLOGGS_CORPORATEAFFAIRS_SEASO...  ...        True
+4175  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_A...  ...        True
+
+[21 rows x 7 columns] Index(['Campaign Name', 'Datasource_x', 'is_fact', 'Mediaplan',
+       'Campaign Mp Label', 'Datasource_y', 'is_campaign'],
+      dtype='object')
+Matching:  707
+Unmatching:  21
+match rate: 97.11538461538461 %
+0
+Mediaplan/result/2021_ktbo_kube_Adverity-Mediaplan_Abril-PromoXbox.xlsx
+['Facebook Ads Insights' 'Sizmek Sas' 'Google Adwords' 'Other Channels']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-Caricam.xlsx
+['Sizmek Sas' 'Other Channels' 'Facebook Ads Insights' 'Google Adwords']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-Colombia.xlsx
+['Google Adwords' 'Facebook Ads Insights' 'Other Channels' 'Sizmek Sas']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-Ecuador.xlsx
+['Other Channels' 'Facebook Ads Insights']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-Mexico.xlsx
+['Sizmek Sas' 'Other Channels' 'Facebook Ads Insights' 'Google Adwords']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-Miami.xlsx
+['Google Adwords' 'Facebook Ads Insights' 'Sizmek Sas']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-PromoXbox.xlsx
+['Google Adwords' 'Other Channels' 'Facebook Ads Insights' 'Sizmek Sas'
+ 'Twitter']
+something went wrong
+Mediaplan
+                       Vendor  ...                                     Campaign upper
+0                    Facebook  ...  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_PRO...
+1   Traditional Display Media  ...  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_PRO...
+2                      Google  ...  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_GOO...
+3                      Google  ...  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_GOO...
+4   Traditional Display Media  ...  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_PRO...
+..                        ...  ...                                                ...
+21                     Google  ...  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_GOO...
+22  Traditional Display Media  ...  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_PRO...
+23  Traditional Display Media  ...  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_PRO...
+24                   Facebook  ...  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_PRO...
+25                     Google  ...  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_GOO...
+
+[324 rows x 8 columns]
+Mediafacts
+                                               Campaign  ...                                      Campaign Name
+0     MCMMIA_2020_ARG_Kelloggs_Pringles_Seasonal_Mov...  ...  MCMMIA_2020_ARG_KELLOGGS_PRINGLES_SEASONAL_MOV...
+1     MCMCO_2020_COL_Kelloggs_Corporate Promotions_S...  ...  MCMCO_2020_COL_KELLOGGS_CORPORATEPROMOTIONS_SE...
+2     MCMCO_2020_COL_Kelloggs_Masterbrand_Seasonal_I...  ...  MCMCO_2020_COL_KELLOGGS_MASTERBRAND_SEASONAL_I...
+3     MCMCO_2020_COL_Kelloggs_Masterbrand_Seasonal_I...  ...  MCMCO_2020_COL_KELLOGGS_MASTERBRAND_SEASONAL_I...
+4     MCMCO_2020_COL_Kelloggs_Masterbrand_Seasonal_I...  ...  MCMCO_2020_COL_KELLOGGS_MASTERBRAND_SEASONAL_I...
+...                                                 ...  ...                                                ...
+1770                                                NaN  ...  MCMMX_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_PROM...
+1771                                                NaN  ...  KTBO_2020_BRA_KELLOGGS_PRINGLES_SEASONAL_QUESA...
+1772                                                NaN  ...  KTBO_2020_BRA_KELLOGGS_PRINGLES_SEASONAL_QUESA...
+1773                                                NaN  ...  KTBO_2020_BRA_KELLOGGS_PRINGLES_SEASONAL_QUESA...
+1774                                                NaN  ...  MCMCO_2020_COL_KELLOGGS_MASTERBRAND_SEASONAL_C...
+
+[5508 rows x 5 columns]
+matched:                                           Campaign Name  ... is_campaign
+1559  MCMMX_2021_MEX_KELLOGGS_EXTRA_SEASONAL_EXTRA_C...  ...        True
+1560  MCMMX_2021_MEX_KELLOGGS_EXTRA_SEASONAL_EXTRA_C...  ...        True
+1561  MCMMX_2021_MEX_KELLOGGS_EXTRA_SEASONAL_EXTRA_C...  ...        True
+1562  MCMMX_2021_MEX_KELLOGGS_EXTRA_SEASONAL_EXTRA_C...  ...        True
+1563  MCMMX_2021_MEX_KELLOGGS_EXTRA_SEASONAL_EXTRA_C...  ...        True
+...                                                 ...  ...         ...
+4504  MCMMIA_2021_DOM_KELLOGGS_KOMPLETE_SEASONAL_GOO...  ...        True
+4509  MCMMIA_2021_GTM_KELLOGGS_CORPORATEPROMOTIONS_S...  ...        True
+4510  MCMMIA_2021_SLV_KELLOGGS_CORPORATEPROMOTIONS_S...  ...        True
+4511  MCMMIA_2021_CRI_KELLOGGS_CORPORATEPROMOTIONS_S...  ...        True
+4512  MCMMIA_2021_PRI_KELLOGGS_SPECIALK_SEASONAL_GOO...  ...        True
+
+[671 rows x 7 columns] Index(['Campaign Name', 'Datasource_x', 'is_fact', 'Mediaplan',
+       'Campaign Mp Label', 'Datasource_y', 'is_campaign'],
+      dtype='object')
+unmatched                                           Campaign Name  ... is_campaign
+5512  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_PRO...  ...        True
+5513  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_PRO...  ...        True
+5514  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_PRO...  ...        True
+5515  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_PRO...  ...        True
+5516  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_PRO...  ...        True
+...                                                 ...  ...         ...
+5591  MCMCO_2021_COL_KELLOGGS_PRINGLES_SEASONAL_PROM...  ...        True
+5592  MCMMIA_2021_COL_KELLOGGS_PRINGLES_SEASONAL_GOO...  ...        True
+5593  MCMCO_2021_COL_KELLOGGS_PRINGLES_SEASONAL_PROM...  ...        True
+5594  MCMMX_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_PROM...  ...        True
+5595                                          undefined  ...        True
+
+[84 rows x 7 columns] Index(['Campaign Name', 'Datasource_x', 'is_fact', 'Mediaplan',
+       'Campaign Mp Label', 'Datasource_y', 'is_campaign'],
+      dtype='object')
+Matching:  671
+Unmatching:  84
+match rate: 88.87417218543047 %
+0
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-Caricam.xlsx
+['Sizmek Sas' 'Other Channels' 'Facebook Ads Insights' 'Google Adwords']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-Ecuador.xlsx
+['Other Channels' 'Facebook Ads Insights']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-Miami.xlsx
+['Google Adwords' 'Facebook Ads Insights' 'Sizmek Sas']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-Colombia.xlsx
+['Google Adwords' 'Facebook Ads Insights' 'Other Channels' 'Sizmek Sas']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-Mexico.xlsx
+['Sizmek Sas' 'Other Channels' 'Facebook Ads Insights' 'Google Adwords']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-PromoXbox.xlsx
+['Google Adwords' 'Other Channels' 'Facebook Ads Insights' 'Sizmek Sas'
+ 'Twitter']
+Mediaplan
+                       Vendor  ...                                     Campaign upper
+0   Traditional Display Media  ...  MCMPR_2021_PRI_KELLOGGS_SPECIALK_SEASONAL_YOSO...
+1   Traditional Display Media  ...  MCMPR_2021_GTM_KELLOGGS_PRINGLES_SEASONAL_VERA...
+2   Traditional Display Media  ...  MCMPR_2021_GTM_KELLOGGS_PRINGLES_SEASONAL_VERA...
+3   Traditional Display Media  ...  MCMPR_2021_CRI_KELLOGGS_PRINGLES_SEASONAL_VERA...
+4   Traditional Display Media  ...  MCMPR_2021_CRI_KELLOGGS_PRINGLES_SEASONAL_VERA...
+..                        ...  ...                                                ...
+21                     Google  ...  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_GOO...
+22  Traditional Display Media  ...  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_PRO...
+23  Traditional Display Media  ...  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_PRO...
+24                   Facebook  ...  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_PRO...
+25                     Google  ...  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_GOO...
+
+[316 rows x 8 columns]
+Mediafacts
+                                               Campaign  ...                                      Campaign Name
+0     MCMMIA_2020_ARG_Kelloggs_Pringles_Seasonal_Mov...  ...  MCMMIA_2020_ARG_KELLOGGS_PRINGLES_SEASONAL_MOV...
+1     MCMCO_2020_COL_Kelloggs_Corporate Promotions_S...  ...  MCMCO_2020_COL_KELLOGGS_CORPORATEPROMOTIONS_SE...
+2     MCMCO_2020_COL_Kelloggs_Masterbrand_Seasonal_I...  ...  MCMCO_2020_COL_KELLOGGS_MASTERBRAND_SEASONAL_I...
+3     MCMCO_2020_COL_Kelloggs_Masterbrand_Seasonal_I...  ...  MCMCO_2020_COL_KELLOGGS_MASTERBRAND_SEASONAL_I...
+4     MCMCO_2020_COL_Kelloggs_Masterbrand_Seasonal_I...  ...  MCMCO_2020_COL_KELLOGGS_MASTERBRAND_SEASONAL_I...
+...                                                 ...  ...                                                ...
+1770                                                NaN  ...  MCMMX_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_PROM...
+1771                                                NaN  ...  KTBO_2020_BRA_KELLOGGS_PRINGLES_SEASONAL_QUESA...
+1772                                                NaN  ...  KTBO_2020_BRA_KELLOGGS_PRINGLES_SEASONAL_QUESA...
+1773                                                NaN  ...  KTBO_2020_BRA_KELLOGGS_PRINGLES_SEASONAL_QUESA...
+1774                                                NaN  ...  MCMCO_2020_COL_KELLOGGS_MASTERBRAND_SEASONAL_C...
+
+[5508 rows x 5 columns]
+matched:                                           Campaign Name  ... is_campaign
+1559  MCMMX_2021_MEX_KELLOGGS_EXTRA_SEASONAL_EXTRA_C...  ...        True
+1560  MCMMX_2021_MEX_KELLOGGS_EXTRA_SEASONAL_EXTRA_C...  ...        True
+1561  MCMMX_2021_MEX_KELLOGGS_EXTRA_SEASONAL_EXTRA_C...  ...        True
+1562  MCMMX_2021_MEX_KELLOGGS_EXTRA_SEASONAL_EXTRA_C...  ...        True
+1563  MCMMX_2021_MEX_KELLOGGS_EXTRA_SEASONAL_EXTRA_C...  ...        True
+...                                                 ...  ...         ...
+4500  MCMMIA_2021_DOM_KELLOGGS_KOMPLETE_SEASONAL_GOO...  ...        True
+4505  MCMMIA_2021_GTM_KELLOGGS_CORPORATEPROMOTIONS_S...  ...        True
+4506  MCMMIA_2021_SLV_KELLOGGS_CORPORATEPROMOTIONS_S...  ...        True
+4507  MCMMIA_2021_CRI_KELLOGGS_CORPORATEPROMOTIONS_S...  ...        True
+4508  MCMMIA_2021_PRI_KELLOGGS_SPECIALK_SEASONAL_GOO...  ...        True
+
+[667 rows x 7 columns] Index(['Campaign Name', 'Datasource_x', 'is_fact', 'Mediaplan',
+       'Campaign Mp Label', 'Datasource_y', 'is_campaign'],
+      dtype='object')
+unmatched                                           Campaign Name  ... is_campaign
+5508  MCMPR_2021_PRI_KELLOGGS_SPECIALK_SEASONAL_YOSO...  ...        True
+5509  MCMPR_2021_GTM_KELLOGGS_PRINGLES_SEASONAL_VERA...  ...        True
+5510  MCMPR_2021_CRI_KELLOGGS_PRINGLES_SEASONAL_VERA...  ...        True
+5511  MCMPR_2021_PAN_KELLOGGS_PRINGLES_SEASONAL_VERA...  ...        True
+5512  MCMPR_2021_DOM_KELLOGGS_PRINGLES_SEASONAL_VERA...  ...        True
+...                                                 ...  ...         ...
+5583  MCMMX_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_PROM...  ...        True
+5584  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_PRO...  ...        True
+5585  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_PRO...  ...        True
+5586  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_PRO...  ...        True
+5587  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_GOO...  ...        True
+
+[80 rows x 7 columns] Index(['Campaign Name', 'Datasource_x', 'is_fact', 'Mediaplan',
+       'Campaign Mp Label', 'Datasource_y', 'is_campaign'],
+      dtype='object')
+Matching:  667
+Unmatching:  80
+match rate: 89.2904953145917 %
+0
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Mayo-Colombia.xlsx
+['Facebook Ads Insights' 'Google Adwords' 'Sizmek Sas' 'Other Channels']
+Mediaplan/result/2021_ktbo_kube_Adverity-Mediaplan_Mayo-PromoXbox.xlsx
+['Sizmek Sas' 'Other Channels']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Mayo-Mexico.xlsx
+['Facebook Ads Insights' 'Google Adwords' 'Other Channels' 'Twitter'
+ 'Sizmek Sas']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Mayo-Caricam.xlsx
+['Sizmek Sas' 'Other Channels' 'Facebook Ads Insights' 'Google Adwords']
+Mediaplan
+                       Vendor  ...                                     Campaign upper
+0                    Facebook  ...  MCMMIA_2021_COL_KELLOGGS_ZUCARITAS_SEASONAL_ZU...
+1                    Facebook  ...  MCMMIA_2021_COL_KELLOGGS_ZUCARITAS_SEASONAL_ZU...
+2                      Google  ...  MCMMIA_2021_COL_KELLOGGS_ZUCARITAS_SEASONAL_GO...
+3                      Google  ...  MCMMIA_2021_COL_KELLOGGS_ZUCARITAS_SEASONAL_GO...
+4   Traditional Display Media  ...  MCMCO_2021_COL_KELLOGGS_ZUCARITAS_SEASONAL_ZUC...
+5   Traditional Display Media  ...  MCMCO_2021_COL_KELLOGGS_ZUCARITAS_SEASONAL_ZUC...
+6   Traditional Display Media  ...  MCMCO_2021_COL_KELLOGGS_ZUCARITAS_SEASONAL_ZUC...
+7   Traditional Display Media  ...  MCMCO_2021_COL_KELLOGGS_ZUCARITAS_SEASONAL_ZUC...
+8                      Google  ...  MCMMIA_2021_COL_KELLOGGS_PRINGLES_SEASONAL_ALW...
+9                      Google  ...  MCMMIA_2021_COL_KELLOGGS_PRINGLES_SEASONAL_ALW...
+0   Traditional Display Media  ...  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_PRO...
+1                      Google  ...  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_GOO...
+0                    Facebook  ...  MCMMX_2021_MEX_KELLOGGS_CORPORATEAFFAIRS_SEASO...
+1                    Facebook  ...  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_F...
+2                    Facebook  ...  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_F...
+3                    Facebook  ...  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_F...
+4                      Google  ...  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_G...
+5   Traditional Display Media  ...  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_F...
+6                      Google  ...  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_G...
+7   Traditional Display Media  ...  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_A...
+8   Traditional Display Media  ...  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_A...
+9                    Facebook  ...  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_A...
+10  Traditional Display Media  ...  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_A...
+11  Traditional Display Media  ...  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_A...
+12  Traditional Display Media  ...  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_A...
+13                   Facebook  ...  MCMMX_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_REGA...
+14                   Facebook  ...  MCMMX_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_REDC...
+15                   Facebook  ...  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_T...
+16  Traditional Display Media  ...  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_T...
+17  Traditional Display Media  ...  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_T...
+0   Traditional Display Media  ...  MCMPR_2021_GTM_KELLOGGS_SPECIALK_SEASONAL_ALIM...
+1   Traditional Display Media  ...  MCMPR_2021_GTM_KELLOGGS_SPECIALK_SEASONAL_ALIM...
+2   Traditional Display Media  ...  MCMPR_2021_CRI_KELLOGGS_SPECIALK_SEASONAL_ALIM...
+3   Traditional Display Media  ...  MCMPR_2021_CRI_KELLOGGS_SPECIALK_SEASONAL_ALIM...
+4   Traditional Display Media  ...  MCMPR_2021_DOM_KELLOGGS_KOMPLETE_SEASONAL_KOMP...
+5                    Facebook  ...  MCMMIA_2021_GTM_KELLOGGS_CORPORATEPROMOTIONS_S...
+6                      Google  ...  MCMMIA_2021_GTM_KELLOGGS_CORPORATEPROMOTIONS_S...
+7   Traditional Display Media  ...  MCMPR_2021_GTM_KELLOGGS_CORPORATEPROMOTIONS_SE...
+8   Traditional Display Media  ...  MCMPR_2021_GTM_KELLOGGS_CORPORATEPROMOTIONS_SE...
+9                    Facebook  ...  MCMMIA_2021_CRI_KELLOGGS_CORPORATEPROMOTIONS_S...
+10                     Google  ...  MCMMIA_2021_CRI_KELLOGGS_CORPORATEPROMOTIONS_S...
+11  Traditional Display Media  ...  MCMPR_2021_CRI_KELLOGGS_CORPORATEPROMOTIONS_SE...
+12  Traditional Display Media  ...  MCMPR_2021_CRI_KELLOGGS_CORPORATEPROMOTIONS_SE...
+13                   Facebook  ...  MCMMIA_2021_SLV_KELLOGGS_CORPORATEPROMOTIONS_S...
+14                     Google  ...  MCMMIA_2021_SLV_KELLOGGS_CORPORATEPROMOTIONS_S...
+15  Traditional Display Media  ...  MCMPR_2021_SLV_KELLOGGS_CORPORATEPROMOTIONS_SE...
+16  Traditional Display Media  ...  MCMPR_2021_SLV_KELLOGGS_CORPORATEPROMOTIONS_SE...
+17                   Facebook  ...  MCMMIA_2021_PRI_KELLOGGS_SPECIALKBARS_SEASONAL...
+18  Traditional Display Media  ...  MCMMIA_2021_PRI_KELLOGGS_SPECIALKBARS_SEASONAL...
+19                   Facebook  ...  MCMMIA_2021_PAN_KELLOGGS_PRINGLES_SEASONAL_MEG...
+20                     Google  ...  MCMMIA_2021_PAN_KELLOGGS_PRINGLES_SEASONAL_GOO...
+21                   Facebook  ...  MCMMIA_2021_PAN_KELLOGGS_PRINGLES_SEASONAL_MEG...
+
+[52 rows x 8 columns]
+Mediafacts
+                                               Campaign  ...                                      Campaign Name
+0     MCMMIA_2020_ARG_Kelloggs_Pringles_Seasonal_Mov...  ...  MCMMIA_2020_ARG_KELLOGGS_PRINGLES_SEASONAL_MOV...
+1     MCMCO_2020_COL_Kelloggs_Corporate Promotions_S...  ...  MCMCO_2020_COL_KELLOGGS_CORPORATEPROMOTIONS_SE...
+2     MCMCO_2020_COL_Kelloggs_Masterbrand_Seasonal_I...  ...  MCMCO_2020_COL_KELLOGGS_MASTERBRAND_SEASONAL_I...
+3     MCMCO_2020_COL_Kelloggs_Masterbrand_Seasonal_I...  ...  MCMCO_2020_COL_KELLOGGS_MASTERBRAND_SEASONAL_I...
+4     MCMCO_2020_COL_Kelloggs_Masterbrand_Seasonal_I...  ...  MCMCO_2020_COL_KELLOGGS_MASTERBRAND_SEASONAL_I...
+...                                                 ...  ...                                                ...
+1346                                                NaN  ...  MCMMX_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_PROM...
+1347                                                NaN  ...  KTBO_2020_BRA_KELLOGGS_PRINGLES_SEASONAL_QUESA...
+1348                                                NaN  ...  KTBO_2020_BRA_KELLOGGS_PRINGLES_SEASONAL_QUESA...
+1349                                                NaN  ...  KTBO_2020_BRA_KELLOGGS_PRINGLES_SEASONAL_QUESA...
+1350                                                NaN  ...  MCMCO_2020_COL_KELLOGGS_MASTERBRAND_SEASONAL_C...
+
+[5084 rows x 5 columns]
+matched:                                           Campaign Name  ... is_campaign
+3739  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_F...  ...        True
+3784  MCMMIA_2021_CRI_KELLOGGS_CORPORATEPROMOTIONS_S...  ...        True
+3817  MCMMIA_2021_GTM_KELLOGGS_CORPORATEPROMOTIONS_S...  ...        True
+3855  MCMMIA_2021_PAN_KELLOGGS_PRINGLES_SEASONAL_MEG...  ...        True
+3867  MCMMIA_2021_PRI_KELLOGGS_SPECIALKBARS_SEASONAL...  ...        True
+3872  MCMMIA_2021_SLV_KELLOGGS_CORPORATEPROMOTIONS_S...  ...        True
+3912  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_A...  ...        True
+3919  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_F...  ...        True
+3920  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_F...  ...        True
+3921  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_F...  ...        True
+4505  MCMMIA_2021_GTM_KELLOGGS_CORPORATEPROMOTIONS_S...  ...        True
+4506  MCMMIA_2021_SLV_KELLOGGS_CORPORATEPROMOTIONS_S...  ...        True
+4507  MCMMIA_2021_CRI_KELLOGGS_CORPORATEPROMOTIONS_S...  ...        True
+4509  MCMMIA_2021_PAN_KELLOGGS_PRINGLES_SEASONAL_GOO...  ...        True
+4519  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_G...  ...        True
+4683  MCMPR_2021_CRI_KELLOGGS_CORPORATEPROMOTIONS_SE...  ...        True
+4703  MCMPR_2021_GTM_KELLOGGS_CORPORATEPROMOTIONS_SE...  ...        True
+4732  MCMPR_2021_SLV_KELLOGGS_CORPORATEPROMOTIONS_SE...  ...        True
+
+[18 rows x 7 columns] Index(['Campaign Name', 'Datasource_x', 'is_fact', 'Mediaplan',
+       'Campaign Mp Label', 'Datasource_y', 'is_campaign'],
+      dtype='object')
+unmatched                                           Campaign Name  ... is_campaign
+5084  MCMMIA_2021_COL_KELLOGGS_ZUCARITAS_SEASONAL_ZU...  ...        True
+5085  MCMMIA_2021_COL_KELLOGGS_ZUCARITAS_SEASONAL_ZU...  ...        True
+5086  MCMMIA_2021_COL_KELLOGGS_ZUCARITAS_SEASONAL_GO...  ...        True
+5087  MCMMIA_2021_COL_KELLOGGS_ZUCARITAS_SEASONAL_GO...  ...        True
+5088  MCMCO_2021_COL_KELLOGGS_ZUCARITAS_SEASONAL_ZUC...  ...        True
+5089  MCMCO_2021_COL_KELLOGGS_ZUCARITAS_SEASONAL_ZUC...  ...        True
+5090  MCMCO_2021_COL_KELLOGGS_ZUCARITAS_SEASONAL_ZUC...  ...        True
+5091  MCMCO_2021_COL_KELLOGGS_ZUCARITAS_SEASONAL_ZUC...  ...        True
+5092  MCMMIA_2021_COL_KELLOGGS_PRINGLES_SEASONAL_ALW...  ...        True
+5093  MCMMIA_2021_COL_KELLOGGS_PRINGLES_SEASONAL_ALW...  ...        True
+5094  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_PRO...  ...        True
+5095  MCMMIA_2021_ARG_KELLOGGS_PRINGLES_SEASONAL_GOO...  ...        True
+5096  MCMMX_2021_MEX_KELLOGGS_CORPORATEAFFAIRS_SEASO...  ...        True
+5097  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_G...  ...        True
+5098  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_A...  ...        True
+5099  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_A...  ...        True
+5100  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_A...  ...        True
+5101  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_A...  ...        True
+5102  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_A...  ...        True
+5103  MCMMX_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_REGA...  ...        True
+5104  MCMMX_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_REDC...  ...        True
+5105  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_T...  ...        True
+5106  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_T...  ...        True
+5107  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_T...  ...        True
+5108  MCMPR_2021_GTM_KELLOGGS_SPECIALK_SEASONAL_ALIM...  ...        True
+5109  MCMPR_2021_GTM_KELLOGGS_SPECIALK_SEASONAL_ALIM...  ...        True
+5110  MCMPR_2021_CRI_KELLOGGS_SPECIALK_SEASONAL_ALIM...  ...        True
+5111  MCMPR_2021_CRI_KELLOGGS_SPECIALK_SEASONAL_ALIM...  ...        True
+5112  MCMPR_2021_DOM_KELLOGGS_KOMPLETE_SEASONAL_KOMP...  ...        True
+5113  MCMPR_2021_GTM_KELLOGGS_CORPORATEPROMOTIONS_SE...  ...        True
+5114  MCMPR_2021_CRI_KELLOGGS_CORPORATEPROMOTIONS_SE...  ...        True
+5115  MCMPR_2021_SLV_KELLOGGS_CORPORATEPROMOTIONS_SE...  ...        True
+5116  MCMMIA_2021_PRI_KELLOGGS_SPECIALKBARS_SEASONAL...  ...        True
+5117  MCMMIA_2021_PAN_KELLOGGS_PRINGLES_SEASONAL_MEG...  ...        True
+
+[34 rows x 7 columns] Index(['Campaign Name', 'Datasource_x', 'is_fact', 'Mediaplan',
+       'Campaign Mp Label', 'Datasource_y', 'is_campaign'],
+      dtype='object')
+Matching:  18
+Unmatching:  34
+match rate: 34.61538461538461 %
+0
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Mayo-Colombia.xlsx
+['Facebook Ads Insights' 'Google Adwords' 'Sizmek Sas' 'Other Channels']
+Mediaplan/result/2021_ktbo_kube_Adverity-Mediaplan_Mayo-PromoXbox.xlsx
+['Sizmek Sas' 'Other Channels']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Mayo-Mexico.xlsx
+['Facebook Ads Insights' 'Google Adwords' 'Other Channels' 'Twitter'
+ 'Sizmek Sas']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Mayo-Caricam.xlsx
+['Sizmek Sas' 'Other Channels' 'Facebook Ads Insights' 'Google Adwords']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Junio-Colombia.xlsx
+['Facebook Ads Insights' 'Google Adwords' 'Sizmek Sas' 'Other Channels']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Junio-Ecuador.xlsx
+['Facebook Ads Insights' 'Other Channels']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Junio-Caricam.xlsx
+['Other Channels' 'Sizmek Sas' 'Facebook Ads Insights' 'Google Adwords']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Junio-Mexico.xlsx
+['Sizmek Sas' 'Facebook Ads Insights' 'Other Channels' 'Google Adwords']
+Mediaplan
+                       Vendor  ...                                     Campaign upper
+0                    Facebook  ...  MCMMIA_2021_COL_KELLOGGS_ZUCARITAS_SEASONAL_ZU...
+1                    Facebook  ...  MCMMIA_2021_COL_KELLOGGS_ZUCARITAS_SEASONAL_ZU...
+2                      Google  ...  MCMMIA_2021_COL_KELLOGGS_ZUCARITAS_SEASONAL_GO...
+3                      Google  ...  MCMMIA_2021_COL_KELLOGGS_ZUCARITAS_SEASONAL_GO...
+4   Traditional Display Media  ...  MCMCO_2021_COL_KELLOGGS_ZUCARITAS_SEASONAL_ZUC...
+..                        ...  ...                                                ...
+14                     Google  ...  MCMMX_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_GOOG...
+15                   Facebook  ...  MCMMX_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_ARMA...
+16  Traditional Display Media  ...  MCMMX_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_ARMA...
+17  Traditional Display Media  ...  MCMMX_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_FERI...
+18                   Facebook  ...  MCMMX_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_REDC...
+
+[138 rows x 8 columns]
+Mediafacts
+                                               Campaign  ...                                      Campaign Name
+0     MCMMIA_2020_ARG_Kelloggs_Pringles_Seasonal_Mov...  ...  MCMMIA_2020_ARG_KELLOGGS_PRINGLES_SEASONAL_MOV...
+1     MCMCO_2020_COL_Kelloggs_Corporate Promotions_S...  ...  MCMCO_2020_COL_KELLOGGS_CORPORATEPROMOTIONS_SE...
+2     MCMCO_2020_COL_Kelloggs_Masterbrand_Seasonal_I...  ...  MCMCO_2020_COL_KELLOGGS_MASTERBRAND_SEASONAL_I...
+3     MCMCO_2020_COL_Kelloggs_Masterbrand_Seasonal_I...  ...  MCMCO_2020_COL_KELLOGGS_MASTERBRAND_SEASONAL_I...
+4     MCMCO_2020_COL_Kelloggs_Masterbrand_Seasonal_I...  ...  MCMCO_2020_COL_KELLOGGS_MASTERBRAND_SEASONAL_I...
+...                                                 ...  ...                                                ...
+1346                                                NaN  ...  MCMMX_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_PROM...
+1347                                                NaN  ...  KTBO_2020_BRA_KELLOGGS_PRINGLES_SEASONAL_QUESA...
+1348                                                NaN  ...  KTBO_2020_BRA_KELLOGGS_PRINGLES_SEASONAL_QUESA...
+1349                                                NaN  ...  KTBO_2020_BRA_KELLOGGS_PRINGLES_SEASONAL_QUESA...
+1350                                                NaN  ...  MCMCO_2020_COL_KELLOGGS_MASTERBRAND_SEASONAL_C...
+
+[5084 rows x 5 columns]
+matched:                                           Campaign Name  ... is_campaign
+3739  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_F...  ...        True
+3781  MCMMIA_2021_CRI_KELLOGGS_CHOCOKRISPIS_SEASONAL...  ...        True
+3784  MCMMIA_2021_CRI_KELLOGGS_CORPORATEPROMOTIONS_S...  ...        True
+3796  MCMMIA_2021_CRI_KELLOGGS_RICEKRISPIES_SEASONAL...  ...        True
+3817  MCMMIA_2021_GTM_KELLOGGS_CORPORATEPROMOTIONS_S...  ...        True
+3831  MCMMIA_2021_GTM_KELLOGGS_RICEKRISPIES_SEASONAL...  ...        True
+3855  MCMMIA_2021_PAN_KELLOGGS_PRINGLES_SEASONAL_MEG...  ...        True
+3860  MCMMIA_2021_PRI_KELLOGGS_CHEEZIT_SEASONAL_CHEE...  ...        True
+3867  MCMMIA_2021_PRI_KELLOGGS_SPECIALKBARS_SEASONAL...  ...        True
+3872  MCMMIA_2021_SLV_KELLOGGS_CORPORATEPROMOTIONS_S...  ...        True
+3892  MCMMX_2021_MEX_KELLOGGS_CORPORATEAFFAIRS_SEASO...  ...        True
+3912  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_A...  ...        True
+3919  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_F...  ...        True
+3920  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_F...  ...        True
+3921  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_F...  ...        True
+4505  MCMMIA_2021_GTM_KELLOGGS_CORPORATEPROMOTIONS_S...  ...        True
+4506  MCMMIA_2021_SLV_KELLOGGS_CORPORATEPROMOTIONS_S...  ...        True
+4507  MCMMIA_2021_CRI_KELLOGGS_CORPORATEPROMOTIONS_S...  ...        True
+4509  MCMMIA_2021_PAN_KELLOGGS_PRINGLES_SEASONAL_GOO...  ...        True
+4519  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_G...  ...        True
+4524  MCMMIA_2021_PRI_KELLOGGS_SPECIALKBARS_SEASONAL...  ...        True
+4525  MCMMIA_2021_CRI_KELLOGGS_RICEKRISPIES_SEASONAL...  ...        True
+4526  MCMMIA_2021_GTM_KELLOGGS_RICEKRISPIES_SEASONAL...  ...        True
+4527  MCMMIA_2021_CRI_KELLOGGS_CHOCOKRISPIS_SEASONAL...  ...        True
+4530  MCMMIA_2021_PRI_KELLOGGS_CHEEZIT_SEASONAL_GOOG...  ...        True
+4627  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_F...  ...        True
+4630  MCMMX_2021_MEX_KELLOGGS_MASTERBRAND_SEASONAL_K...  ...        True
+4632  MCMMX_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_ARMA...  ...        True
+4681  MCMPR_2021_CRI_KELLOGGS_CHOCOKRISPIS_SEASONAL_...  ...        True
+4683  MCMPR_2021_CRI_KELLOGGS_CORPORATEPROMOTIONS_SE...  ...        True
+4687  MCMPR_2021_CRI_KELLOGGS_MASTERBRAND_SEASONAL_H...  ...        True
+4703  MCMPR_2021_GTM_KELLOGGS_CORPORATEPROMOTIONS_SE...  ...        True
+4707  MCMPR_2021_GTM_KELLOGGS_MASTERBRAND_SEASONAL_H...  ...        True
+4717  MCMPR_2021_GTM_KELLOGGS_ZUCARITAS_SEASONAL_PUR...  ...        True
+4732  MCMPR_2021_SLV_KELLOGGS_CORPORATEPROMOTIONS_SE...  ...        True
+4736  MCMPR_2021_SLV_KELLOGGS_MASTERBRAND_SEASONAL_H...  ...        True
+4737  MCMPR_2021_SLV_KELLOGGS_ZUCARITAS_SEASONAL_PUR...  ...        True
+
+[37 rows x 7 columns] Index(['Campaign Name', 'Datasource_x', 'is_fact', 'Mediaplan',
+       'Campaign Mp Label', 'Datasource_y', 'is_campaign'],
+      dtype='object')
+unmatched                                           Campaign Name  ... is_campaign
+5084  MCMMIA_2021_COL_KELLOGGS_ZUCARITAS_SEASONAL_ZU...  ...        True
+5085  MCMMIA_2021_COL_KELLOGGS_ZUCARITAS_SEASONAL_ZU...  ...        True
+5086  MCMMIA_2021_COL_KELLOGGS_ZUCARITAS_SEASONAL_GO...  ...        True
+5087  MCMMIA_2021_COL_KELLOGGS_ZUCARITAS_SEASONAL_GO...  ...        True
+5088  MCMCO_2021_COL_KELLOGGS_ZUCARITAS_SEASONAL_ZUC...  ...        True
+...                                                 ...  ...         ...
+5180  MCMMX_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_GOOG...  ...        True
+5181  MCMMX_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_ARMA...  ...        True
+5182  MCMMX_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_ARMA...  ...        True
+5183  MCMMX_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_FERI...  ...        True
+5184  MCMMX_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_REDC...  ...        True
+
+[101 rows x 7 columns] Index(['Campaign Name', 'Datasource_x', 'is_fact', 'Mediaplan',
+       'Campaign Mp Label', 'Datasource_y', 'is_campaign'],
+      dtype='object')
+Matching:  37
+Unmatching:  101
+match rate: 26.811594202898554 %
+0
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-PromoXbox.xlsx
+['Google Adwords' 'Other Channels' 'Facebook Ads Insights' 'Sizmek Sas'
+ 'Twitter']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-Colombia.xlsx
+['Google Adwords' 'Facebook Ads Insights' 'Other Channels' 'Sizmek Sas']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-Mexico.xlsx
+['Sizmek Sas' 'Other Channels' 'Facebook Ads Insights' 'Google Adwords']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-Caricam.xlsx
+['Sizmek Sas' 'Other Channels' 'Facebook Ads Insights' 'Google Adwords']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-Miami.xlsx
+['Google Adwords' 'Facebook Ads Insights' 'Sizmek Sas']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-Ecuador.xlsx
+['Other Channels' 'Facebook Ads Insights']
+Mediaplan
+                       Vendor  ...                                     Campaign upper
+0                      Google  ...  MCMMIA_2021_COL_KELLOGGS_PRINGLES_SEASONAL_GOO...
+1                      Google  ...  MCMMIA_2021_COL_KELLOGGS_PRINGLES_SEASONAL_GOO...
+2                      Google  ...  MCMMIA_2021_COL_KELLOGGS_PRINGLES_SEASONAL_PRO...
+3                    Facebook  ...  MCMMIA_2021_COL_KELLOGGS_PRINGLES_SEASONAL_PRO...
+4   Traditional Display Media  ...  MCMCO_2021_COL_KELLOGGS_PRINGLES_SEASONAL_PROM...
+..                        ...  ...                                                ...
+0   Traditional Display Media  ...  MCMECU_2021_ECU_KELLOGGS_ZUCARITAS_SEASONAL_PU...
+1   Traditional Display Media  ...  MCMECU_2021_ECU_KELLOGGS_ZUCARITAS_SEASONAL_PU...
+2                    Facebook  ...  MCMMIA_2021_ECU_KELLOGGS_ZUCARITAS_SEASONAL_PU...
+3   Traditional Display Media  ...  MCMECU_2021_ECU_KELLOGGS_ZUCARITAS_SEASONAL_PU...
+4                    Facebook  ...  MCMMIA_2021_ECU_KELLOGGS_ZUCARITAS_SEASONAL_PU...
+
+[316 rows x 8 columns]
+Mediafacts
+                                               Campaign  ...                                      Campaign Name
+0     MCMMIA_2020_ARG_Kelloggs_Pringles_Seasonal_Mov...  ...  MCMMIA_2020_ARG_KELLOGGS_PRINGLES_SEASONAL_MOV...
+1     MCMCO_2020_COL_Kelloggs_Corporate Promotions_S...  ...  MCMCO_2020_COL_KELLOGGS_CORPORATEPROMOTIONS_SE...
+2     MCMCO_2020_COL_Kelloggs_Masterbrand_Seasonal_I...  ...  MCMCO_2020_COL_KELLOGGS_MASTERBRAND_SEASONAL_I...
+3     MCMCO_2020_COL_Kelloggs_Masterbrand_Seasonal_I...  ...  MCMCO_2020_COL_KELLOGGS_MASTERBRAND_SEASONAL_I...
+4     MCMCO_2020_COL_Kelloggs_Masterbrand_Seasonal_I...  ...  MCMCO_2020_COL_KELLOGGS_MASTERBRAND_SEASONAL_I...
+...                                                 ...  ...                                                ...
+1346                                                NaN  ...  MCMMX_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_PROM...
+1347                                                NaN  ...  KTBO_2020_BRA_KELLOGGS_PRINGLES_SEASONAL_QUESA...
+1348                                                NaN  ...  KTBO_2020_BRA_KELLOGGS_PRINGLES_SEASONAL_QUESA...
+1349                                                NaN  ...  KTBO_2020_BRA_KELLOGGS_PRINGLES_SEASONAL_QUESA...
+1350                                                NaN  ...  MCMCO_2020_COL_KELLOGGS_MASTERBRAND_SEASONAL_C...
+
+[5084 rows x 5 columns]
+matched:                                           Campaign Name  ... is_campaign
+1559  MCMMX_2021_MEX_KELLOGGS_EXTRA_SEASONAL_EXTRA_C...  ...        True
+1560  MCMMX_2021_MEX_KELLOGGS_EXTRA_SEASONAL_EXTRA_C...  ...        True
+1561  MCMMX_2021_MEX_KELLOGGS_EXTRA_SEASONAL_EXTRA_C...  ...        True
+1562  MCMMX_2021_MEX_KELLOGGS_EXTRA_SEASONAL_EXTRA_C...  ...        True
+1563  MCMMX_2021_MEX_KELLOGGS_EXTRA_SEASONAL_EXTRA_C...  ...        True
+...                                                 ...  ...         ...
+4731  MCMPR_2021_SLV_KELLOGGS_CORPORATEPROMOTIONS_SE...  ...        True
+4732  MCMPR_2021_SLV_KELLOGGS_CORPORATEPROMOTIONS_SE...  ...        True
+4733  MCMPR_2021_SLV_KELLOGGS_CORPORATEPROMOTIONS_SE...  ...        True
+4734  MCMPR_2021_SLV_KELLOGGS_KOMPLETE_SEASONAL_KOMP...  ...        True
+4735  MCMPR_2021_SLV_KELLOGGS_MASTERBRAND_SEASONAL_D...  ...        True
+
+[741 rows x 7 columns] Index(['Campaign Name', 'Datasource_x', 'is_fact', 'Mediaplan',
+       'Campaign Mp Label', 'Datasource_y', 'is_campaign'],
+      dtype='object')
+unmatched                                           Campaign Name  ... is_campaign
+5084  MCMMIA_2021_COL_KELLOGGS_PRINGLES_SEASONAL_GOO...  ...        True
+5085  MCMMX_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_PROM...  ...        True
+5086  MCMCO_2021_COL_KELLOGGS_HEALTHYKIDS_SEASONAL_H...  ...        True
+5087  MCMCO_2021_COL_KELLOGGS_EXTRA_SEASONAL_EXTRA_R...  ...        True
+5088  MCMPR_2021_GTM_KELLOGGS_SPECIALKBARS_SEASONAL_...  ...        True
+5089  MCMPR_2021_CRI_KELLOGGS_SPECIALKBARS_SEASONAL_...  ...        True
+
+[6 rows x 7 columns] Index(['Campaign Name', 'Datasource_x', 'is_fact', 'Mediaplan',
+       'Campaign Mp Label', 'Datasource_y', 'is_campaign'],
+      dtype='object')
+Matching:  741
+Unmatching:  6
+match rate: 99.19678714859438 %
+0
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-PromoXbox.xlsx
+['Google Adwords' 'Other Channels' 'Facebook Ads Insights' 'Sizmek Sas'
+ 'Twitter']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-Colombia.xlsx
+['Google Adwords' 'Facebook Ads Insights' 'Other Channels' 'Sizmek Sas']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-Mexico.xlsx
+['Sizmek Sas' 'Other Channels' 'Facebook Ads Insights' 'Google Adwords']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-Caricam.xlsx
+['Sizmek Sas' 'Other Channels' 'Facebook Ads Insights' 'Google Adwords']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-Miami.xlsx
+['Google Adwords' 'Facebook Ads Insights' 'Sizmek Sas']
+Mediaplan/result/2021_ktbo_kube_Adverity_Mediaplan_Abril-Ecuador.xlsx
+['Other Channels' 'Facebook Ads Insights']
+Mediaplan
+                       Vendor  ...                                     Campaign upper
+0                      Google  ...  MCMMIA_2021_COL_KELLOGGS_PRINGLES_SEASONAL_GOO...
+1                      Google  ...  MCMMIA_2021_COL_KELLOGGS_PRINGLES_SEASONAL_GOO...
+2                      Google  ...  MCMMIA_2021_COL_KELLOGGS_PRINGLES_SEASONAL_PRO...
+3                    Facebook  ...  MCMMIA_2021_COL_KELLOGGS_PRINGLES_SEASONAL_PRO...
+4   Traditional Display Media  ...  MCMCO_2021_COL_KELLOGGS_PRINGLES_SEASONAL_PROM...
+..                        ...  ...                                                ...
+0   Traditional Display Media  ...  MCMECU_2021_ECU_KELLOGGS_ZUCARITAS_SEASONAL_PU...
+1   Traditional Display Media  ...  MCMECU_2021_ECU_KELLOGGS_ZUCARITAS_SEASONAL_PU...
+2                    Facebook  ...  MCMMIA_2021_ECU_KELLOGGS_ZUCARITAS_SEASONAL_PU...
+3   Traditional Display Media  ...  MCMECU_2021_ECU_KELLOGGS_ZUCARITAS_SEASONAL_PU...
+4                    Facebook  ...  MCMMIA_2021_ECU_KELLOGGS_ZUCARITAS_SEASONAL_PU...
+
+[316 rows x 8 columns]
+Mediafacts
+                                               Campaign  ...                                      Campaign Name
+0     MCMMIA_2020_ARG_Kelloggs_Pringles_Seasonal_Mov...  ...  MCMMIA_2020_ARG_KELLOGGS_PRINGLES_SEASONAL_MOV...
+1     MCMCO_2020_COL_Kelloggs_Corporate Promotions_S...  ...  MCMCO_2020_COL_KELLOGGS_CORPORATEPROMOTIONS_SE...
+2     MCMCO_2020_COL_Kelloggs_Masterbrand_Seasonal_I...  ...  MCMCO_2020_COL_KELLOGGS_MASTERBRAND_SEASONAL_I...
+3     MCMCO_2020_COL_Kelloggs_Masterbrand_Seasonal_I...  ...  MCMCO_2020_COL_KELLOGGS_MASTERBRAND_SEASONAL_I...
+4     MCMCO_2020_COL_Kelloggs_Masterbrand_Seasonal_I...  ...  MCMCO_2020_COL_KELLOGGS_MASTERBRAND_SEASONAL_I...
+...                                                 ...  ...                                                ...
+1346                                                NaN  ...  MCMMX_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_PROM...
+1347                                                NaN  ...  KTBO_2020_BRA_KELLOGGS_PRINGLES_SEASONAL_QUESA...
+1348                                                NaN  ...  KTBO_2020_BRA_KELLOGGS_PRINGLES_SEASONAL_QUESA...
+1349                                                NaN  ...  KTBO_2020_BRA_KELLOGGS_PRINGLES_SEASONAL_QUESA...
+1350                                                NaN  ...  MCMCO_2020_COL_KELLOGGS_MASTERBRAND_SEASONAL_C...
+
+[5084 rows x 5 columns]
+matched:                                           Campaign Name  ... is_campaign
+1559  MCMMX_2021_MEX_KELLOGGS_EXTRA_SEASONAL_EXTRA_C...  ...        True
+1560  MCMMX_2021_MEX_KELLOGGS_EXTRA_SEASONAL_EXTRA_C...  ...        True
+1561  MCMMX_2021_MEX_KELLOGGS_EXTRA_SEASONAL_EXTRA_C...  ...        True
+1562  MCMMX_2021_MEX_KELLOGGS_EXTRA_SEASONAL_EXTRA_C...  ...        True
+1563  MCMMX_2021_MEX_KELLOGGS_EXTRA_SEASONAL_EXTRA_C...  ...        True
+...                                                 ...  ...         ...
+4731  MCMPR_2021_SLV_KELLOGGS_CORPORATEPROMOTIONS_SE...  ...        True
+4732  MCMPR_2021_SLV_KELLOGGS_CORPORATEPROMOTIONS_SE...  ...        True
+4733  MCMPR_2021_SLV_KELLOGGS_CORPORATEPROMOTIONS_SE...  ...        True
+4734  MCMPR_2021_SLV_KELLOGGS_KOMPLETE_SEASONAL_KOMP...  ...        True
+4735  MCMPR_2021_SLV_KELLOGGS_MASTERBRAND_SEASONAL_D...  ...        True
+
+[741 rows x 7 columns] Index(['Campaign Name', 'Datasource_x', 'is_fact', 'Mediaplan',
+       'Campaign Mp Label', 'Datasource_y', 'is_campaign'],
+      dtype='object')
+unmatched                                           Campaign Name  ... is_campaign
+5084  MCMMIA_2021_COL_KELLOGGS_PRINGLES_SEASONAL_GOO...  ...        True
+5085  MCMMX_2021_MEX_KELLOGGS_PRINGLES_SEASONAL_PROM...  ...        True
+5086  MCMCO_2021_COL_KELLOGGS_HEALTHYKIDS_SEASONAL_H...  ...        True
+5087  MCMCO_2021_COL_KELLOGGS_EXTRA_SEASONAL_EXTRA_R...  ...        True
+5088  MCMPR_2021_GTM_KELLOGGS_SPECIALKBARS_SEASONAL_...  ...        True
+5089  MCMPR_2021_CRI_KELLOGGS_SPECIALKBARS_SEASONAL_...  ...        True
+
+[6 rows x 7 columns] Index(['Campaign Name', 'Datasource_x', 'is_fact', 'Mediaplan',
+       'Campaign Mp Label', 'Datasource_y', 'is_campaign'],
+      dtype='object')
+Matching:  741
+Unmatching:  6
+match rate: 99.19678714859438 %
+0
