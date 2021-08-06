@@ -7,3 +7,5 @@ Son necesarios principalmente para archivos manuales como:
 - Planes de medios
 - Listenings
 - Archivos de campaña
+
+![Visualization of the codebase](./diagram.svg)
