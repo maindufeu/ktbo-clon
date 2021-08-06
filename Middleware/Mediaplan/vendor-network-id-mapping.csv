@@ -1,0 +1,13 @@
+Match,Value
+.*FACEBOOK_FACEBOOK.*,Facebook Ads Insights
+.*FACEBOOK_FACEBOOK&INSTAGRAM.*,Facebook Ads Insights
+.*FACEBOOK_INSTAGRAM.*,Facebook Ads Insights
+.*FACEBOOK_FACEBOOKANDINSTAGRAM.*,Facebook Ads Insights
+.*GOOGLE_YOUTUBE.*,Google Adwords
+.*GOOGLE_DISPLAY.*,Google Adwords
+.*GOOGLE_SEM.*,Google Adwords
+.*SIZMEK.*,Sizmek Sas
+.*TRADITIONAL DISPLAY MEDIA_TWITTER.*,Twitter
+.*TRADITIONAL DISPLAY MEDIA_XAXIS.*,Sizmek Sas
+.*TRADITIONAL DISPLAY MEDIA_TAPTAP.*,Sizmek Sas
+.*XAXIS_YOUTUBE.*,Youtube Xaxis Video
